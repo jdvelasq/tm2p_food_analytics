@@ -1,0 +1,53 @@
+CATEGORY	ITEM	VALUE
+GENERAL	Annual growth rate %	45.01
+GENERAL	Average annual citations per document	1.9
+GENERAL	Average citations per document	20.94
+GENERAL	Average documents per source	1.84
+GENERAL	Average references per document	199.61
+GENERAL	Documents	1967
+GENERAL	Document average age	2.96
+GENERAL	Number of sources	1069
+GENERAL	Timespan	2016:2026
+GENERAL	Total cited references	392632
+DOCUMENT TYPES	Article	737
+DOCUMENT TYPES	Book	15
+DOCUMENT TYPES	Book chapter	153
+DOCUMENT TYPES	Conference paper	753
+DOCUMENT TYPES	Conference review	3
+DOCUMENT TYPES	Data paper	2
+DOCUMENT TYPES	Editorial	1
+DOCUMENT TYPES	Erratum	1
+DOCUMENT TYPES	Letter	3
+DOCUMENT TYPES	Note	3
+DOCUMENT TYPES	Retracted	7
+DOCUMENT TYPES	Review	286
+DOCUMENT TYPES	Short survey	3
+AUTHORS	Author appearances	8528
+AUTHORS	Average authors per document	4.34
+AUTHORS	Average authors per multi-authored documents	4.61
+AUTHORS	Collaboration index	4.61
+AUTHORS	Documents per author appearance	0.23
+AUTHORS	Internationally co-authored documents %	25.1
+AUTHORS	Number of authors	7383
+AUTHORS	Number of authors of single-authored documents	111
+AUTHORS	Number of multi-authored documents	1822
+AUTHORS	Number of single-authored documents	120
+AFFILIATIONS	Number of countries	100
+AFFILIATIONS	Number of countries (1st author)	87
+AFFILIATIONS	Number of organizations	2345
+AFFILIATIONS	Number of organizations (1st author)	1222
+AFFILIATIONS	Number of regions	5
+AFFILIATIONS	Number of subregions	15
+KEYWORDS	Number of author keywords (norm)	3996
+KEYWORDS	Number of author keywords (raw)	4692
+KEYWORDS	Number of index keywords (norm)	7628
+KEYWORDS	Number of index keywords (raw)	8845
+KEYWORDS	Number of keywords (norm)	8999
+KEYWORDS	Number of keywords (raw)	10979
+NLP	Number of SpaCy NP phrases	35518
+NLP	Number of TextBlob NP phrases	29610
+NLP	Number of abstract NP phrases (raw))	39284
+NLP	Number of title NP phrases (raw)	4524
+NLP	Number of NP phrases (raw)	41445
+NLP	Number of concepts (raw)	47795
+NLP	Number of concepts (norm)	35493
