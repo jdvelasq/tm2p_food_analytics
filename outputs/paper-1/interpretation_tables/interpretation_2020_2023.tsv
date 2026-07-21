@@ -1,0 +1,13 @@
+CLUSTER	N_UNITS	OCC	TLS	CENTRALITY	DENSITY	N_DOCS	N_DOCS_PERCENTAGE	MEAN_YEAR	MEDIAN_YEAR	FIRST_YEAR	LAST_YEAR	GROWTH_RATE	EMERGENCE_SCORE	STRATEGIC_ROLE	UNITS
+0	51	1178	11731	100.8504	11.2442	185	26.77 %	2021.8	2022	2020	2023	4.97	0.11000000000000004	Motor	deep learning; convolutional neural network; neural networks
+1	36	896	8142	102.7303	8.2522	149	21.56 %	2021.7	2022	2020	2023	4.32	-0.26	Motor	artificial intelligence; big data; food industry
+2	26	710	5863	62.2083	7.3518	64	9.26 %	2021.5	2022	2020	2023	3.0	-1.0	Motor	food products; quality; detection
+3	23	586	5258	69.367	6.1825	69	9.99 %	2022.0	2022	2020	2023	6.67	0.8499999999999999	Motor	machine learning; vector machine; random forest
+4	23	469	4399	66.3002	7.8044	48	6.95 %	2022.0	2022	2020	2023	11.0	0.8499999999999999	Motor	food supply chain; food supply; food waste
+5	20	372	3666	56.4131	6.0534	34	4.92 %	2021.7	2022	2020	2023	3.86	-0.26	Emerging/Declining	food intake; disease; diabete
+6	19	278	2870	60.2198	9.9909	13	1.88 %	2021.5	2021	2020	2023	5.5	-1.0	Motor	internet of things; covid-19; blockchain
+7	14	535	4502	41.636	3.2442	81	11.72 %	2021.9	2022	2020	2023	4.79	0.48000000000000004	Emerging/Declining	food recommendation; food recommendation system; food ingredients
+8	14	255	1944	37.3528	4.2405	27	3.91 %	2021.5	2021	2020	2023	2.0	-1.0	Emerging/Declining	food computing; data mining; semantic
+9	12	210	1983	38.5302	5.128	8	1.16 %	2021.1	2021	2020	2023	3.0	-2.47	Emerging/Declining	health; healthy food; social media
+10	10	196	1892	35.0415	4.408	7	1.01 %	2021.6	2021	2020	2023	6.0	-0.63	Emerging/Declining	nutrition; nutritional information; eating habits
+11	10	150	1370	30.9664	4.552	6	0.87 %	2022.0	2022	2021	2023	6000000000.0	4.32	Emerging/Declining	decision making; collaborative filtering; taste

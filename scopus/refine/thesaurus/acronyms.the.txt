@@ -1,0 +1,1690 @@
+1-d
+	one dimensional
+1d
+    one dimensional
+3d
+	three dimensional
+3dfp
+	three dimensional food printing
+3pl
+	third party logistics
+4d
+	four dimensional
+4ir
+	fourth industrial revolution
+aa
+    aminoacid
+absa
+    aspect based sentiment analysis
+ache
+	acetylcholinesterase
+acme
+    adversarial cross modal embedding
+ada
+    american diabetes association
+adl
+    advanced deep learning
+ads
+	advertisements
+adwf
+	adaptive wiener filtering
+ae
+	autoencoder
+aepp
+    adaptive eating pattern predictor
+af
+    arabica flores
+afb1
+	aflatoxin b1
+afo
+    automated food ontology
+afr
+    adaptive food regulation
+afsc
+    agri food supply chain
+afsce
+    agri food supply chain efficiency
+afscnd
+    agri food supply chain network design
+afscs
+    agri food supply chains
+ag
+	arabica gayo
+agri4sc
+	agri food supply chain
+agritech
+    agricultural technology
+ahp
+    analytic hierarchy process
+aiai
+	ai adoption impediments
+aid
+    artificial intelligence dietician
+aifns
+	ai based food science and nutrition systems
+aiot
+    artificial intelligence of things
+aip
+	aggregation interaction propagation
+als
+	alternating least squares
+am
+    attention mechanism
+ami
+	amongst ambient intelligence
+ampk
+	amp-activated protein kinase
+amps
+	antimicrobial peptides
+anfis
+    adaptive neuro fuzzy inference system
+ann
+    artificial neural network
+anni
+	ann inverse
+anns
+    artificial neural networks
+anova
+    analysis of variance
+anp
+    analytical network process
+ao
+    autonomous optimization
+aops
+    advanced oxidation processes
+aoss
+    artificial olfactory systems
+api
+    application programming interface
+app
+    amyloid precursor protein
+apps
+	applications
+apv
+    allelic phenotype value
+ar
+    augmented reality
+autoregressive integrated moving average
+	arima
+arm
+    association rule mining
+arp
+	antiradical potential
+asc
+    agrifood supply chain
+asfs
+    animal source foods
+atr
+    attenuated total reflectance
+att
+	attitude
+auc
+    area under curve
+auroc
+	area under the receiver operating characteristic
+aws
+    amazon web services
+bbis
+	big data and blockchain
+bbn
+    bayesian belief network
+bbs
+	bangladesh bureau of statistics
+bbt
+    brass block thermocouple
+bct
+    blockchain technology
+bd
+    big data
+bda
+    big data analytics
+bdcs
+    big data capabilities
+be
+    built environment
+belh
+	bessel estimation loss of hypersphere
+bf
+	breakfast
+bfo
+    basic formal ontology
+bg
+    blood glucose
+bia
+    bio impedance analysis
+bilstm
+	bidirectional lstm
+bmi
+    body mass index
+bmr
+    basal metabolic rate
+bn
+    bayesian network
+bnn
+    bayesian neural networks
+bof
+    bag of features
+bow
+    bag of words
+bpn
+    back propagation network
+bpnn
+    back propagation neural network
+bpns
+    back propagation networks
+bps
+	central bureau of statistics
+br
+    bayesian regularization
+bsm
+    balanced subsets method
+btle
+    bluetooth low energies
+cad
+    coronary artery disease
+cafe
+    computer aided food engineering
+cafm
+    cross attention fusion module
+cafrs
+    context aware food recommender system
+cafscs
+    conventional agri food supply chains
+cart
+	classification and regression tree
+casc
+	context aware spatial channel
+cb
+    content based
+cbcm
+    coffee bean classification model
+cbiaformer
+	convolution enhanced bi branch adaptive transformer
+cbnet
+	combinational convolutional neural network
+cbr
+    case based reasoning
+ccr
+    chinese character recognition
+cdai
+    composite dietary antioxidant index
+cea
+    controlled environment agriculture
+ceha
+    controlled environment hydroponic agriculture
+cekis
+	centralized kitchens
+cfd
+    computational fluid dynamics
+cfda
+    food and drug administration
+cfqa
+	cnn for food quality analyzer
+cfsc
+    circular food supply chain
+cgans
+    conditional generative adversarial networks
+ckd
+    chronic kidney disease
+cla
+    conjugated linoleic acid
+cle
+    confocal laser endomicroscopy
+clscs
+    closed loop supply chains
+cmga
+	cross modal multi granularity alignment
+cnn
+    convolutional neural network
+cnns
+    convolutional neural networks
+cofid
+    composition of food integrated dataset
+cpbs
+	coffee processing by products
+cpi
+    compound protein interaction
+cpss
+    cyber physical systems
+crc
+    colorectal cancer
+crdp
+    caloric restricted diet problem
+crf
+    conditional random field
+crispr
+    clustered regularly interspaced short palindromic repeats
+crss
+    conversational recommender systems
+csa
+    climate smart agriculture
+cscc
+    cross step consistency control
+cscm
+    circular supply chain management
+cscs
+    circular supply chains
+csfs
+    critical success factors
+csq
+    central similarity quantization
+ctfem
+    contextual text feature enhancement module
+cvd
+	cardiovascular disease
+cvs
+    computer vision systems
+cvss
+    computer vision systems
+cwgan-gp
+    conditional wasserstein gans
+cww
+    computing with word
+cwws
+    computing with words
+da
+    discriminant analysis
+dai
+    distributed artificial intelligence
+dar
+    domain adaptive recognition
+dash
+	dietary approach to stop hypertension
+dcn
+	deep convolutional neural network
+dcnn
+    deep convolutional neural network
+dcv
+    dynamic capability view
+deepmf
+	deep matrix factorization
+dem
+    discrete element method
+dexp
+	discrete latent exponent
+df
+    digital food
+dfa
+    discriminant factor analysis
+dfrs
+	diabetes focused food recommender system
+dfsc
+    digital food supply chain
+dft
+    discrete fourier transform
+dgm
+    deep generative models
+dh
+    digital holography
+dhl
+    dietary healthy level
+dii
+    dietary inflammatory index
+diu
+    defuzzification interface unit
+dml
+    double machine learning
+dnc
+	daily needed food calories
+dncf
+    deep neural collaborative filtering
+dne
+    distribution network efficiency
+dnn
+    deep neural network
+dnns
+    deep neural networks
+dofp
+    division of focal plane
+dolp
+    degree of linear polarization
+don
+	deoxynivalenol
+dos
+    domain ontologies
+dpmsd
+    dried porcini mushroom slices dataset
+dpn
+    deep polarized network
+dpp4
+    dipeptidyl peptidase-4
+dqn
+    deep q network
+dqs
+    diet quality score
+drms
+    dynamic risk management system
+drnn
+    deep recurrent neural network
+dsm
+    dietary self monitoring
+dsr
+    design science research
+dss
+    decision support system
+dta
+    decision tree approach
+e-nose
+    electronic nose
+ea
+    enumeration area
+eai
+    embodied artificial intelligence
+eb
+    economic benefit
+ebl
+    e beam lithography
+ebnpgs
+    evidence based nutrition practice guidelines
+eci
+	encyclopedia of italian cuisine
+ecp
+    expected care plan
+eda
+    exploratory data analysis
+edkrm
+	explicit domain specific knowledge retrieval module
+edt
+    ensemble decision tree
+eeg
+	electroencephalogram
+eeio-v
+    environmentally extended inputoutput valuation model
+efa
+    exploratory factor analysis
+efs
+    electric field strength
+egcp
+    enhanced global covariance pooling
+ei
+    external integration
+eis
+    environmental impact score
+elm
+    extreme learning machine
+ema
+    economically motivated adulteration
+emc
+    equilibrium moisture content
+ems
+    environmental microbes
+enstm
+	ensemble topic modeling
+erfsc
+    emergency regional food supply chain
+esr
+    electron spin resonance
+essa
+    enhanced squirrel search algorithm
+esv
+    ecosystem service value
+eta
+	estimated delivery times
+ets
+    electric trucks
+evhnet
+	enhanced vit hash network
+evoo
+    extra virgin olive oil
+fafh
+    food away from home
+fahp
+    fuzzy analytic hierarchy process
+fao
+	food and agriculture organization
+fas
+    food assurance systems
+fbcs
+    food bioactive compounds
+fbds
+	foodborne diseases
+fbps
+	food derived bioactive peptides
+fc
+    food chain
+fcd
+    food composition databases
+fcdbs
+	food composition dietary databases
+fcf
+    fruit concentration factor
+fcm
+    fuzzy cognitive map
+fcn
+    fully convolutional networks
+fcns
+    fully convolutional networks
+fct
+    food composition tables
+fcts
+    food composition tables
+fdf
+    ferments du futur
+fdps
+    food derived peptides
+fdss
+    food delivery services
+fefo
+    first expired first out
+fel
+    food exchange list
+fels
+    food exchange lists
+fem
+    finite element method
+fera
+    fuzzy evidential reasoning approach
+fewss
+	food energy and water systems
+ffis
+    functional food ingredients
+ffnn
+	feedforward neural network
+ffps
+    former food products
+ffq
+    food frequency questionnaire
+fgas
+    food grade assessment scale
+fgb
+    food group balance
+fgcn
+	food recommendation with graph convolutional network
+fgsc
+    food grain supply chain
+fhs
+    food hypersensitivity
+fi
+    food industry
+fid
+    frechet inception distance
+fis
+    fuzzy inference system
+fisc
+	food insecurity composite score
+fit2
+    finite interval type 2
+fiu
+    fuzzification interface unit
+fkg
+    food knowledge graph
+fl
+    federated learning
+fls
+    fuzzy logic system
+flw
+    food loss and waste
+fmcw
+    frequency modulated continuous wave
+fml
+    fuzzy markup language
+fmsc
+    food manufacturing and supply chain
+fndds
+	food and nutrient database for dietary studies
+fowa
+    food objects with attributes
+fp
+    food preference
+fpb
+    food portion benchmark
+fpgas
+    field programmable gate arrays
+fph
+    food pairing hypothesis
+fphfss
+    fermatean probabilistic hesitant fuzzy sets
+fpi
+    food processing industry
+fpis
+    food processing industries
+fpn
+    feature pyramid network
+fpq
+    food preference questionnaire
+fqam
+    food quality analysis measure
+frap
+	ferric ion reducing antioxidant power
+frcs
+    food risk components
+frlp
+	food recommendation as language processing
+frs
+    food recognition system
+frss
+    food recommendation systems
+fs
+    food security
+fsa
+    food standards agency
+fsanz
+	food standards of australia and new zealand
+fsc
+    food supply chain
+fscm
+    food supply chain management
+fscs
+    food supply chains
+fsi
+    food systems informatics
+fsis
+    food safety incidents
+fsl
+    few shot learning
+fsma
+    food safety modernization act
+fsmss
+    food safety management systems
+fso
+    food safety objectives
+fsr
+    food service recommendation
+ftir
+	fourier transform infrared
+ftow
+    transformation offset and weight
+ftto
+    track and trace ontology
+fucom
+    full consistency method
+fvsc
+	factor based visual semantic consistency
+fw
+    food waste
+fwg
+    food waste generation
+g2v
+    grid to vehicle
+ga
+    genetic algorithm
+gan
+    generative adversarial network
+gans
+    generative adversarial networks
+gap
+    good agricultural practices
+gat
+	graph attention network
+gaussiannb
+    gaussian naive bayes
+gb
+    gradient boosting
+gbc
+    gradient boosting classifier
+gbell
+	generalized bell shaped
+gbr
+    gradient boosting regressor
+gcms
+	gas chromatographymass spectrometry
+gcns
+    graph convolutional networks
+genai
+    generative artificial intelligence
+gfml
+    genetic fuzzy markup language
+gfsi
+    global food security index
+ghg
+    greenhouse gas
+ghi
+    global hunger index
+gi
+    glycemic index
+gis
+    geographic information system
+glm
+    generalized linear model
+glso-drnn
+    gradient lion-swarm optimized discrete recurrent neural network
+gm
+    genetically modified
+gnb
+    gaussian naive bayes
+gnn
+    graph neural network
+gnns
+    graph neural networks
+go
+    gene ontology
+gpr
+    gaussian process regression
+gpt2
+	generative pre trained transformer
+greedyhash
+	greedy hash
+grns
+    genetic reinforcement networks
+grr
+    rules and regulations
+gru
+    gated recurrent unit
+grus
+    gated recurrent units
+gsc
+    green supply chain
+gscap
+	green supply chain of agricultural products
+gsconv
+	group shuffle convolution
+gum
+    greensboro urban ministry
+gzsd
+    generalized zero shot detection
+haccp
+    hazard analysis critical control point
+hafr
+	hierarchical attention based food recommendation
+hana
+    healthy artificial nutrition analysis
+hca
+    hierarchical clustering algorithms
+hcfc
+    hyperspectral context fuzzy classifier
+hci
+    human computer interaction
+hcrisis
+	humanitarian crisis
+hdac1
+    histone deacetylase-1
+hdc
+	hyperdimensional computing
+hesdr
+	hybrid ensemble support vector deep residual
+hfi
+    human food interaction
+hfice
+    hyperspectral food image context extractor
+hgann
+	hypergraph attention neural network
+hgt
+    heterogeneous graph transformer
+hin
+    heterogeneous information networks
+hog
+    histogram of gradient
+hoq
+    house of quality
+hp
+    high pressure
+hpa
+	hyperphenylalaninemia
+hplc
+    high performance liquid chromatograph
+hr
+    heart rate
+hrs
+    healthy recommendation system
+hsfs
+    hierarchical spatial fusion strategy
+hsi
+    hyperspectral images
+hua
+    hyperuricemia
+hw
+	hardware
+hysals
+	hybrid sarima lstm
+i2v
+	image to video
+i4.0
+	industry 4.0
+ian
+    interactive attention network
+ibs
+    irritable bowel syndrome
+icmsf
+	international commission on microbiological specifications for foods
+ict
+    information and communication technology
+ide
+    image detail enhancement
+idf
+    international diabetes federation
+idra
+    intelligent diet recommendation agent
+idt
+    improved decision tree
+ifad
+	international fund for agricultural development
+ifas
+    intelligent food assurance system
+ifrsni
+	intelligent food recommender system with nutrition insights
+ifsac
+    interagency food safety analytics collaboration
+ifss
+    intelligent food services
+ig
+    information gain
+igfbp
+	insulin like growth factor binding protein
+igkim
+    implicit general knowledge injection module
+iiot
+    industrial internet of things
+ikle
+    knowledge and learning environment
+ilsi
+    international life sciences institute
+imc
+    internal model control
+imhf
+    inter modality hybrid fusion
+imu
+    inertial measurement unit
+incv3
+	inceptionv3
+inlfs
+	infinite latent feature selection
+inn
+	ingredient network
+iof
+    internet of food
+iohuman
+	internet of humans
+iomt
+    internet of medical things
+iontp
+	internet of nonthermal food processing technologies
+iot
+    internet of things
+ipc
+    integrated phase classification
+ipfs
+    interplanetary file system
+ipfsrs
+    intelligent personalized food service recommendation system
+ipls
+    interval partial least squares
+ipo
+    input process output
+ir4.0
+	fourth industrial revolution
+ism
+    interpretive structural modeling
+it2fss
+    interval type-2 fuzzy set
+itgr
+	integrated two stage group recommendation
+iv3
+    inceptionv3
+iwp
+    irrigation water productivity
+kbf
+    knowledge based filtering
+kbph
+	k means with binary particle swarm optimization
+kbqa
+    knowledge base question answering
+kefs
+    knowledge enhanced feature synthesizer
+kegg
+	kyoto encyclopedia of genes and genomes
+kfos
+    key food odorants
+kg
+    knowledge graph
+kge
+    knowledge graph embedding
+kges
+    knowledge graph embeddings
+kie
+    key information enhancement
+km
+    knowledge management
+kmc
+    k means clustering
+knn
+    k-nearest neighbor
+kpis
+    key performance indicators
+lb
+    ligand based
+lbp
+    local binary pattern
+lca
+    life cycle assessment
+lccc
+	lin s concordance correlation coefficient
+lem
+    leftovers evaluation management
+lgbm
+    light gradient boosting machine
+libs
+    laser induced breakdown spectroscopy
+lightgbm
+	light gradient boosting machine
+lime
+	local interpretable model agnostic explanations
+lims
+    laboratory information management system
+llm
+    large language model
+llms
+    large language models
+lmwgs
+    low molecular weight gelators
+lnas
+    lightweight neural architecture search
+loo
+    leave one out
+lorawan
+	long range wide area networking
+loso
+    leave one subject out
+lpa
+    latent profile analysis
+lsa
+    latent semantic analysis
+lschnn
+	lightweight single view contrastive learning hypergraph neural network
+lsd
+    least significant difference
+lstm
+    long short term memory
+lvlms
+    large vision language models
+ma
+    mamba attention
+maa
+    macro average accuracy
+mab
+    multi armed bandit
+macs
+	multiply accumulate
+mairca
+    multi attributive ideal real comparative analysis
+map
+    mean average precision
+mean absolute percentage error    
+    mape
+mean average percentage error
+    mape
+mapk
+    mitogen activated protein kinase
+mapt
+    microtubule associated protein tau
+marmtf
+    multi attribute relation matrix tri factorization
+mas
+    multi agent systems
+mask-rcnn
+    mask region-based convolutional neural network
+maskdit
+	masked diffusion transformer
+masld
+	metabolic dysfunction associated steatotic liver disease
+mass
+    multi agent systems
+mbc
+    minimum bactericidal concentration
+mc
+    moisture content
+mcc
+    matthews correlation coefficient
+mccas
+    medium chain carbolic acids
+mcda
+    multi criteria decision analysis
+mcdm
+    multiple criteria decision making
+mcen
+    modality consistent embedding network
+mcr
+    multivariate curve resolution
+mdoe
+    multivariate design of experiments
+mds
+    multi dimensional scaling
+med
+	mediterranean diet
+meddiet
+	mediterranean diet
+mef
+    moderate electric field
+mefpn
+	multi scale enhanced feature pyramid network
+mel
+	melamine
+mf
+    matrix factorization
+mfa
+    multiple factor analysis
+mfcc
+    mel frequency cepstral coefficients
+mfdas
+    mobile food delivery applications
+mfkg
+    multimodal food knowledge graph
+mfqa
+    food question and answering
+mhealth
+    mobile health
+mic
+    minimum inhibitory concentration
+miou
+    mean intersection over union
+mip
+    molecularly imprinted polymer
+mir
+	mid infrared
+mlai
+    learning and artificial intelligence
+mllms
+    multimodal large language models
+mlp
+    multilayer perceptron
+mlpnn
+	multi layer perceptron neural network
+mlps
+    multilayer perceptrons neural networks
+mlr
+    multiple linear regression
+mlss
+    multiple learning strategies
+mmacmr
+	multi modal alignment method for cross modal recipe retrieval
+mmdl-rec
+    multi-model framework
+mmr
+    mixed method research
+mnb
+    multinomial naive bayes
+mnt
+    medical nutrition therapy
+moasa
+	mobile application for smart appliances
+moo
+    multi objective optimization
+mox
+	metal oxide
+mpi
+    maximum permissible intake
+mps
+    microplastics
+mpt
+    meal prediction tool
+mre
+    mean relative error
+mrfei
+    modified retail food environment index
+mrfnet
+	multi receptive field fusion network
+mri
+    magnetic resonance imaging
+mrls
+    maximum residue limits
+ms
+    mass spectrometry
+mscim
+    multi scale context integration module
+mse
+    mean square error
+msi
+	multispectral imaging
+msl
+    multi-scale learning
+mspl
+    medical service presentation layer
+msw
+    municipal solid waste
+mt-svm
+    multi-link tree-based support vector machine
+mtl
+    multi task learning
+mvl
+    multi view learning
+mvs
+    multi view stereo
+mw
+	microwave
+mwcn
+    multiwalled carbon nanotubes
+nahco3
+    sodium bicarbonate
+nams
+    new approach methodologies
+narm
+    noise adaptive recognition module
+nas
+    neural architecture search
+nb
+	naive bayes
+nc
+    non compliance
+ncc
+    nutrition coordinating center
+ncds
+    non communicable diseases
+ncf
+    neural collaborative filtering
+ndcg
+    normalized discounted cumulative gain
+ndeval
+	node evaluation
+ndsr
+	nutrition data system for research
+ndt
+    non destructive testing
+nel
+    named entity linking
+ner
+    named entity recognition
+ngos
+    non governmental organizations
+nh3
+	ammonia
+nhanes
+	national health and nutrition examination survey
+nir
+	near infrared
+nirs
+	near infrared spectroscopy
+nla
+    node-level attention
+nlp
+    natural language processing
+nltk
+	natural language toolkit
+nmf
+    negative matrix factorization
+nmr
+    nuclear magnetic resonance
+nn
+    neural network
+nna
+    neural network approach
+nns
+    neural networks
+no2
+	nitrites
+no3
+	nitrates
+nors
+    national outbreak reporting system
+npl
+    nitrogen pollution load
+npop
+	national program for organic production
+nrf
+    nutrient rich foods
+nrkg
+    nutrition related knowledge graph
+nrs
+    nutrition recommendation systems
+nutn
+	national university of tainan
+oaei
+    ontology alignment evaluation initiative
+obo
+	open biological and biomedical ontology
+ocr
+    optical character recognition
+od
+    olfactory dysfunction
+odc
+	overall daily food calorie
+odmd
+    on demand meal delivery
+organization for economic co operation and development    
+    oecd
+ofcs
+    oral food challenges
+ofd
+    online food delivery
+ols
+    ordinary least squares
+omas
+	ontology based multi agents
+omrm
+	optimization based recommendation model
+oob
+    out of bag
+ors
+	odds ratios
+owl
+    ontology web language
+pacp
+	public authority for consumer protection
+pad
+    pleasure arousal dominance
+pah
+	phenylalanine hydroxylase
+pat
+    process analytical technology
+pb
+    perceived benefits
+pbdes
+    polybrominated diphenyl ethers
+pbpk
+	physiologically based pharmacokinetic
+pc
+    principle component
+pca
+    principal component analysis
+pcbs
+    polychlorinated biphenyls
+pcc
+    percentage of calories from carbohydrate
+pcf
+    percentage of calories from fat
+pcp
+    percentage of calories from protein
+pcr
+    percentage of caloric ratio
+pcs
+    principal component similarity
+pd
+    personalized diet
+pda
+    personal digital assistant
+pdi
+    pentaho data integration
+pdm
+	predictive maintenance
+pds
+    public distribution system
+pe
+    preference elicitation
+peg
+	polyethylene glycol
+pfass
+    per and polyfluoroalkyl substances
+pfi
+    permutation feature importance
+pfm
+    personal food model
+pfq
+	probability of food quality
+pfr
+    personalized food recommendation
+pfss
+    pythagorean fuzzy sets
+phd
+    planetary health diet
+phe
+	phenylalanine
+pi3k
+	phosphatidylinositol 3-hydroxykinase
+pku
+	phenylketonuria
+plm
+	pre trained language model
+pls
+    partial least squares
+pls-da
+    partial least squares discriminant analysis
+plsr
+    partial least squares regression
+pmepr
+    perturbation margin enhanced prototype regularization
+pmis
+    protein matrix interactions
+pnar
+    proposed new autonomous region
+pnn
+    probabilistic neural network
+po
+    performance objectives
+pofg
+    probability of food grade
+poi
+    point of interest
+pops
+    persistent organic pollutants
+pos
+    point of sale
+pp
+    production planning
+ppg
+	photoplethysmography
+ppgr
+	postprandial glucose responses
+ppi
+    protein protein interaction
+ppm
+    pyramid pooling module
+pr
+    perceived risk
+preferred reporting items for systematic review and meta analysis    
+    prisma
+profus
+	progressive food knowledge fusion
+psnr
+	peak signal to noise ratio
+pso
+    particle swarm optimization
+ptafd
+    progressive temperature aware feature distillation
+qc
+    quality control
+qca
+    qualitative comparative analysis
+qda
+    quadratic discriminant analysis
+qfd
+    quality function deployment
+qi
+    quality inspection
+qmra
+    quantitative microbial risk assessment
+qol
+    quality of life
+qr
+    quick response
+qsar
+	quantitative structureactivity relationship
+qsor
+    quantitative structure odour relationship
+qspr
+    quantitative structure property relation
+raef
+    recognize after early fusion
+rag
+    retrieval augmented generation
+rapw
+	risk analysis and prewarning
+rar
+    retrieval augmented recognition
+rasff
+	rapid alert system for food and feed
+rbf
+    radial basis function
+rbfrs
+    rule based food recommender system
+rbm
+    restricted boltzmann machine
+rbr
+    rule based reasoning
+rbv
+    resource based view
+rcf
+    root concentration factor
+rcnn
+	region based convolutional neural networks
+rco
+    random-centroid optimization
+rcp
+    red chili powder
+rcpkg
+	recipe knowledge graph
+rcpmkr
+	recipe recommendation method via the knowledge graph
+rd
+    robusta dampit
+rdad
+    rotating disk air distribution
+rdi
+    reconnaissance drought index
+recsys
+    food recommender systems
+resnet
+	residual neural network
+rf
+    random forest
+rfddm
+    region feature denoising diffusion model
+rfe
+    recursive feature elimination
+rfeh
+    radio frequency energy harvesting
+rfid
+    radio frequency identification
+rfr
+    random forest regression
+rgcn
+    relational graph convolutional networks
+ri
+    robotic intelligence
+rl
+    reinforcement learning
+rlp
+	recommendation as language processing
+rm
+    replacement method
+rmp
+    regression models procedure
+rmse
+    root mean square error
+rmsecv
+	root mean square error of cross validation
+rmsle
+    root mean squared log error
+rnn
+    recurent neural network
+rnns
+    recurrent neural networks
+ror
+    rate of rise
+ros
+    random oversampling
+rpn
+    region proposal network
+rr
+    relative risks
+rs
+    recommender system
+rsd
+    relative standard deviation
+rsl
+    remaining shelf life
+rsm
+    response surface methodology
+rss
+    recommender systems
+rssi
+    received signal strength indicator
+rtd
+    research through design
+rte
+    ready to eat
+rtt
+    round trip time
+rusle
+    revised universal soil loss equation
+rva
+    raw video analysis
+rw
+    random walk
+s3m
+	semantic separable synthesizing module
+saas
+    software as a service
+saber
+	signal amplification by reversible exchange
+sabl
+    side aware boundary localization
+saes
+	stacked autoencoders
+saw
+    simple additive weighting
+sci
+    supply chain integration
+scr
+    supply chain responsiveness
+scri
+    supply chain resource integration
+scv
+    supply chain visibility
+sdg
+    sustainable development goal
+sdgs
+    sustainable development goals
+seac
+	self aware computing
+sebes
+	sensomics based expert system
+sefro
+    semantic explainable food recommendation ontology
+sem
+    structural equation modeling
+sers
+    surface enhanced raman spectroscopy
+ses
+    socio economical status
+sf
+    logistic regression
+sfa
+    saturated fatty acid
+sff
+    selective feature filtering
+sfn
+	societe francaise de nutrition
+shap
+	shapley additive explanations
+shr
+    satisfied hit rate
+sift
+    scale invariant feature transform
+simca
+	soft independent modeling of class analogy
+skm
+    spherical k means
+sla
+    semantic-level attention
+slci
+	structural learning and cross task interaction
+slr
+    systematic literature review
+sm
+	softmax
+sma
+    social media analytics
+smes
+    small and medium enterprises
+smo
+    sequential minimal optimization
+smote
+	synthetic minority over sampling technique
+smpt
+	supervised multi model prediction technique
+smv
+	support vector machine
+smwl
+    semantic medical web layer
+sna
+    social network analysis
+snn
+    siamese neural network
+sns
+    stakeholder needs
+so32
+	sulfites
+soc
+    soil organic carbon
+som
+    self organising map
+soms
+    self organizing maps
+sor
+    stimulus organism response
+sota
+    state of the art
+sp
+    sustainable performance
+spvs
+    single plurality voting system
+src
+	step wise regional control
+srd
+	sum of ranking differences
+sresa
+	society for reliability and safety
+srss
+    smart recipe suggestion system
+ssa
+    separable self attention
+sseeds
+    stable and efficacy enhanced delivery systems
+st
+    semantic technology
+stl
+	seasonal trend decomposition using loess
+stm
+    structural topic modeling
+str
+    stock turnover ratio
+sua
+    serum uric acid
+sus
+    system usability scale
+svc
+    support vector classification
+svd
+    singular value decomposition
+svd++
+    singular value decomposition
+svm
+    support vector machine
+svms
+    support vector machines
+svmtafrs
+	support vector machine powered time aware food recommender system
+svn2
+	support vectored neural networks
+svr
+    support vector regression
+sw
+    semantic web
+swe
+    sensor web enablement
+swir
+	short wave infrared
+swof
+    semantic web of food
+swrl
+    semantic web rule language
+t1d
+    type 1 diabetes
+t2d
+    type-2 diabetes
+t2fml
+    type-2 fuzzy markup language
+t2fo
+    type-2 fuzzy ontology
+t2fss
+    type 2 fuzzy sets
+t2i
+	text to image
+t2v
+	text to video
+ta
+    technological advancements
+tam
+    technology acceptance model
+tbfi
+    traditional bengali food image
+tbl
+    triple bottom line
+tcmsp
+    traditional chinese medicine systems pharmacology database and analysis platform
+tco
+    total cost of ownership
+tde
+    technology development evaluation
+tdrs
+    technical design requirements
+tf-idf
+    term frequency inverse document frequency
+tff
+    thai fast food
+tnf
+    tumor necrosis factor
+tod
+    time of day
+technology , organization and environment
+    toe
+topsis
+	technique for order preference by similarity to an ideal solution
+tra
+	table of reference amounts
+trf
+    time resolved fluorescence
+tvocs
+    total volatile organic compounds
+ugcop
+	uncertain geographic context problem
+ugt2b7
+	uridine diphosphate glucuronosyltransferase 2b7
+uhf
+    ultra high frequency
+ui
+    user interface
+uid
+    user identity document
+uk
+    united kingdom
+umls
+    unified medical language system
+un
+    united nations
+up
+    user preference
+upcs
+    universal product codes
+upfs
+    ultra processed foods
+uscat
+	use of supply chain analytics technologies
+usdasr
+	united states department of agriculture standard reference
+vaes
+    variational autoencoder
+vbcar
+    variational bayesian context aware representation
+vfn
+	viper foodnet
+vgg
+    visual geometry group
+vif
+    variance inflation factor
+vit
+    vision transformer
+vits
+	vision transformers
+vlm
+    vision language model
+vlms
+    vision language models
+voc
+    volatile organic compounds
+vocs
+    volatile organic compounds
+vr
+    virtual reality
+vswl
+    vital sensor web layer
+w3c
+	world wide web consortium
+wasd
+    weighted average source distance
+wb
+    wheat bran
+wef
+    water energy food
+weka
+    waikato environment for knowledge analysis
+wemf
+    week end multiplying factor
+wfa
+    world food atlas
+wfeee
+    water food ecology environment economy
+wfs
+    wingsuit flying search
+who
+    world health organization
+wiou
+	wise iou
+wlm
+    whale levenberg marquardt
+wmf
+	weighted multi granularity fusion
+wms
+    warehouse management system
+ws
+    wood saw
+wsn
+    wireless senors network
+xai
+    explainable artificial intelligence
+xgboost
+	extreme gradient boosting
+xo
+    xanthine oxidase
+xrf
+    x ray fluorescence
+yolo
+    you only look once
+yolov4
+	you only look once
+yolov5
+	you only look once
+zifs
+    zeolitic imidazolate frameworks
+zsd
+    zero shot detection
+zsfd
+    zero shot food detection

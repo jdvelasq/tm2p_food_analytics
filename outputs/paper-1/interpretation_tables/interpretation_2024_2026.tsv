@@ -1,0 +1,11 @@
+CLUSTER	N_UNITS	OCC	TLS	CENTRALITY	DENSITY	N_DOCS	N_DOCS_PERCENTAGE	MEAN_YEAR	MEDIAN_YEAR	FIRST_YEAR	LAST_YEAR	GROWTH_RATE	EMERGENCE_SCORE	STRATEGIC_ROLE	UNITS
+0	24	1249	11704	26.2583	3.3489	214	20.06 %	2024.9	2025	2024	2026	214000000000.0	1.75	Motor	deep learning; computer vision; convolutional neural network
+1	24	807	8422	31.213	3.1877	106	9.93 %	2025.0	2025	2024	2026	106000000000.0	0.79	Motor	food quality evaluation; detection; food analysis
+2	20	1337	11450	22.5224	2.3596	181	16.96 %	2024.9	2025	2024	2026	181000000000.0	1.21	Motor	food products; food ingredients; recipe
+3	20	1411	14998	31.3232	2.5708	159	14.90 %	2024.9	2025	2024	2026	159000000000.0	0.85	Motor	artificial intelligence; food safety; food industry
+4	18	677	6980	25.6114	2.6552	60	5.62 %	2025.1	2025	2024	2026	60000000000.0	0.8400000000000001	Motor	food waste; predictive analytics; waste
+5	16	670	5451	17.639	2.4041	95	8.90 %	2024.7	2025	2024	2026	95000000000.0	-1.79	Emerging/Declining	food recommendation; food recommendation system; health
+6	15	722	6773	19.8488	2.1992	59	5.53 %	2024.7	2025	2024	2026	59000000000.0	-2.38	Emerging/Declining	nutrition; food intake; personalized diet recommendations
+7	13	1175	10868	17.6225	1.8414	109	10.22 %	2024.9	2025	2024	2026	109000000000.0	0.04	Emerging/Declining	machine learning; learning systems; neural networks
+8	13	694	7425	20.3624	2.4438	64	6.00 %	2024.9	2025	2024	2026	64000000000.0	-0.7	Specialized/Niche	food supply chain; internet of things; food traceability
+9	10	436	4791	16.666	2.3039	20	1.87 %	2025.0	2025	2024	2026	20000000000.0	-0.6199999999999999	Emerging/Declining	food supply; food security; sustainable development

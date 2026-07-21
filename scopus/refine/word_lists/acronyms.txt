@@ -1,0 +1,2658 @@
+1-d
+    a one dimensional ( 1-d )
+1d
+    by combining an adaptive segmentation technique and a cnn model using 1-dimensional ( 1d )
+3d
+    implementation of three dimensional ( 3d )
+3dfp
+    three dimensional food printing ( 3dfp )
+3pl
+    e deep learning framework to mitigate the bullwhip effect in third party logistics ( 3pl )
+4d
+    background : four dimensional ( 4d )
+4ir
+     to 2025 indicates that ai has emerged as the leading fourth industrial revolution ( 4ir )
+a21
+    easing effect on the t21 relaxation time and its corresponding apparent population ( a21 )
+aa
+    amino acid
+ab
+    , adaboost ( ab )
+    an ' architectural bottleneck ' ( ab )
+about
+    factors will significantly affect the adoption of blockchain technology ( about )
+absa
+    aspect based sentiment analysis
+ace
+    angiotensin converting enzyme
+    average causal effect
+ache
+    ands interacting with ad related target proteins , including acetylcholinesterase ( ache )
+acme
+    adversarial cross modal embedding
+ad
+    alzheimer s disease ( ad )
+    anaerobic digestion
+ada
+    american diabetes association
+adl
+    advanced deep learning
+ads
+    however , analyzing a large number of advertisements ( ads )
+adults
+    because the dietary risks of cadmium in rice are 3.38 ( adults )
+adwf
+    ich are then pre processed using data normalization and adaptive wiener filtering ( adwf )
+ae
+    , autoencoder ( ae )
+aepp
+    adaptive eating pattern predictor
+af
+    arabica flores
+afb1
+    , aflatoxin b1 ( afb1 )
+afo
+    automated food ontology
+afr
+    adaptive food regulation
+afsc
+    agri food supply chain
+    agri food supply chains
+    agri-food supply chain
+afsce
+    agri food supply chain efficiency
+afscnd
+    agri food supply chain network design
+afscs
+    agri food supply chains
+ag
+    arabica gayo
+agri4sc
+    the benchmarking of agri food 4.0 supply chain ( agri4sc )
+agrifood
+    oped a vocabulary to describe the core concepts and processes in quantitative ( agrifood )
+agritech
+    agricultural technology
+ahc
+    agent by integrating agro hydrological model ( ahc )
+ahei
+    , alternative healthy eating in dex 2010 ( ahei )
+ahp
+    ai-based halal prediction
+    analytic hierarchy process
+ai
+     industry 4.0 or the smart factory , the value of artificial information technology ( ai )
+    accuracy improvement
+    adoption intention
+    agri-food industry
+    agri-food informatics
+    agricultural industry
+    ai integration
+    allee impacts
+    allergen identification
+    ambient intelligence
+    and ingredients
+    artificial intelligence
+    artificial intelligent
+    automated identification
+aiai
+    this research investigates the moderating impact of ai adoption impediments ( aiai )
+aid
+    artificial intelligence dietician
+aifns
+    ltimodal data is usually achieved by ai based food science and nutrition systems ( aifns )
+aims
+    ambient ionization mass spectrometry
+aiot
+    artificial intelligence of things
+aip
+    the method incorporates an aggregationinteractionpropagation ( aip )
+air
+    artificial intelligence-powered recipe
+    artificial intelligent robotic
+akt
+    /protein kinase b ( akt )
+allergies
+    x process of identifying , locating , and categorizing food hypersensitivity ( allergies )
+als
+    alternating least squares
+    in this paper , the least squares method ( als )
+am
+    attention mechanism
+amaranth
+    y investigated the effects of progressive substitution of amaranthus caudatus ( amaranth )
+ami
+    amongst ambient intelligence ( ami )
+amms
+    mathematical modeling and simulation
+ampk
+    amp-activated protein kinase
+amps
+    products , examine toxin producing pathogens , and profile antimicrobial peptides ( amps )
+anfis
+    adaptive neuro fuzzy inference system
+    however the adaptive neuro fuzzy model ( anfis )
+    the adaptive network based fuzzy inference system ( anfis )
+ann
+    , random forest , artificial n eural n etwork ( ann )
+    artificial neural network
+    artificial neural networks
+    artificial neuronal network
+    artificial neuronal networks
+    attention neural network
+anni
+    ann inverse ( anni )
+anns
+    artificial neural networks
+anova
+    analysis of variance
+anp
+    analytical network process
+ao
+    autonomous optimization
+aop
+    advanced oxidation processes
+    adverse outcome pathway
+    angle of polarization
+aops
+    advanced oxidation processes
+aoss
+    artificial olfactory systems
+api
+    application programming interface
+    application programming interfaces
+app
+    amyloid precursor protein
+apps
+    n care , high quality and accuracy of its features within smartphone applications ( apps )
+apv
+    allelic phenotype value
+ar
+    augmented reality
+arima
+    by integrating the autoregressive integrated moving average ( arima )
+    rid forecasting framework that combines autoregressive integrated moving average ( arima )
+arm
+    association rule mining
+arp
+    ns , namely , a direct relationship between the value of the antiradical potential ( arp )
+artifact
+    the design ( artifact )
+asa24
+    the automated self administered 24-hour dietary assessment tool ( asa24 )
+asc
+    agrifood supply chain
+asfs
+    animal source foods
+asreview
+    following prisma guidelines and using machine learningassisted screening ( asreview )
+    titles and abstracts were screened using an ai based tool ( asreview )
+atr
+    attenuated total reflectance
+att
+    with the attitude ( att )
+auc
+    area under curve
+aunps
+    , and gold nanoparticles ( aunps )
+auroc
+     others , achieving 0.919 area under the receiver operating characteristic curve ( auroc )
+    for example , a pixel wise area under the receiver operating characteristic ( auroc )
+aws
+    amazon web services
+b10
+    , data silos ( b10 )
+b13
+    the findings highlight that education and training gaps ( b13 )
+b14
+    , data integration challenges ( b14 )
+b16
+    , environmental sustainability concerns ( b16 )
+b17
+    and short term focus ( b17 )
+bace1
+    , beta secretase 1 ( bace1 )
+bagging
+    at ensemble methods significantly enhanced model accuracy , with decision tree ( bagging )
+bapanas
+    and the national food agency ( bapanas )
+baseline
+    ion label , llm generated explanations , llm generated hashtags , or no label ( baseline )
+bbis
+    tions considering the information service inputs based on big data and blockchain ( bbis )
+bbn
+    bayesian belief network
+bbs
+    both the world bank and the bangladesh bureau of statistics ( bbs )
+bbt
+    brass block thermocouple
+    cooling rate of model food ( bbt )
+bct
+    blockchain technology
+    blockchain technology ( bct )
+bd
+    big data
+    in this context , the phrase ' big data ' ( bd )
+bda
+    big data analytics
+bdcs
+    big data capabilities
+be
+    built environment
+because
+    at present , analysis of diet and bladder cancer ( because )
+    furthermore , bayesian classification ( because )
+belh
+    second , by integrating bessel estimation loss of hypersphere ( belh )
+bf
+    the daily food set is the food items for breakfast ( bf )
+bfo
+    basic formal ontology
+bg
+    blood glucose
+bia
+    bio impedance analysis
+bilstm
+    , bidirectional lstm ( bilstm )
+binary
+    additionally , it demonstrated robust results with f1-scores of 86.12 % ( binary )
+bio
+    the theme concerning machine learning coupled with electrochemical ( bio )
+    this chapter describes the major electrochemical ( bio )
+    tly , the use of rapid response biosensing devices , for example , electrochemical ( bio )
+bioactives
+    g and characterizing natural , efficacious , and safe bioactive ingredients ( bioactives )
+biodeepnat
+    bioinformatics integrated deep neural analysis of ncs for disease discovery ( biodeepnat )
+bmi
+    body mass index
+    eir goals on body weight , while also taking into account their health information ( bmi )
+bmlfts
+    in this paper , a blockchain machine learning based food traceability system ( bmlfts )
+bmr
+    basal metabolic rate
+bn
+    bayesian network
+bnn
+    bayesian neural networks
+bof
+    bag of features
+bow
+    bag of words
+bp
+    back propagation
+    blood pressure
+    brick powder
+bpn
+    back propagation network
+bpnn
+    back propagation neural network
+    both backpropagation ( bpnn )
+bpns
+    back propagation networks
+bps
+    y retail price data from 2021 to 2024 provided by the central bureau of statistics ( bps )
+br
+    bayesian regularization
+bsm
+    balanced subsets method
+btle
+    bluetooth low energies
+c1_prcp
+    in high grade rcp ( c1_prcp )
+c2_arcp
+    trained at bs 64 , delivers 97.99 % accuracy for detecting natural adulterants ( c2_arcp )
+    variety , and class 2 ( c2_arcp )
+ca
+    case adaptation
+    cellular automata
+    cluster analysis
+    correspondence analysis
+    cross attention
+    customer age
+cad
+    coronary artery disease
+cafe
+    computer aided food engineering
+cafm
+    cross attention fusion module
+cafrs
+    context aware food recommender system
+cafscs
+    conventional agri food supply chains
+calories
+    and the nutrition information of foods ( calories )
+cam
+    class activation map
+    contextual attention module
+cape
+    in the south western ( cape )
+cart
+    , classification and regression tree ( cart )
+casc
+    this design first utilizes a context aware spatial channel refinement ( casc )
+cavit
+    , the in vitro chromosomal aberration test ( cavit )
+cb
+    content based
+cbcm
+    coffee bean classification model
+cbiaformer
+    rient transformer named convolution enhanced bi branch adaptive transformer ( cbiaformer )
+cbnet
+    we construct an up to date combinational convolutional neural network ( cbnet )
+cbr
+    case based reasoning
+    case based reasonings
+ccr
+    chinese character recognition
+cdai
+    composite dietary antioxidant index
+cdb
+    of a large compound database ( cdb )
+ce
+    capillary electrophoresis
+    circular economy
+cea
+    controlled environment agriculture
+ceha
+    controlled environment hydroponic agriculture
+    controlled-environment hydroponic agriculture
+cekis
+    the design of food service production facilities , known as centralized kitchens ( cekis )
+cf
+    carbon footprint
+    collaborative filtering
+    in this work we test a range of collaborative iltering ( cf )
+cfbm
+    lemented in an android application to provide complementary foods for breast milk ( cfbm )
+cfd
+    computational fluid dynamics
+cfda
+    food and drug administration
+cfpe
+    ese challenges , we propose the cross domain guided food pseudo target estimation ( cfpe )
+cfqa
+    and cnn for food quality analyzer ( cfqa )
+    for food quality analyzer ( cfqa )
+cfsc
+    circular food supply chain
+cgans
+    conditional generative adversarial networks
+cgrs
+    borative knowledge propagation graph attention network for recipes recommendation ( cgrs )
+chemoinformatic
+    abstract : the aim of this work was the foodinformatic ( chemoinformatic )
+children
+    and 3.41 ( children )
+ckd
+    chronic kidney disease
+cl
+    this chapter explores the profound influence of machine learning ( cl )
+cla
+    conjugated linoleic acid
+cle
+    confocal laser endomicroscopy
+clip
+     food photos and word cuisine is made possible by adverse language image pretense ( clip )
+clscs
+    closed loop supply chains
+cmga
+    to overcome the challenge , we propose a cross modal multi granularity alignment ( cmga )
+cnn
+    capsule neural network
+    cascaded neural networks
+    cnn-convolutional neural network
+    convolution neural network
+    convolution neural networks
+    convolutional neural network
+    convolutional neural networks
+cnns
+    convolution neural networking
+    convolution neural networks
+    convolutional neural network
+    convolutional neural networks
+cofid
+    composition of food integrated dataset
+corn
+    sented in ingredients lists versus a common , but non falcpa regulated ingredient ( corn )
+correlations
+    ex nature and data are highly dimensional , with intricate interrelations ( correlations )
+cp
+    was implemented for conventionally ( cp )
+cpbs
+    sents a transdisciplinary synthesis on transferring coffee processing by products ( cpbs )
+cpi
+    compound protein interaction
+cpss
+    cyber physical systems
+crbfns
+    , and radial basis function networks ( crbfns )
+crc
+    colorectal cancer ( crc )
+crdp
+    caloric restricted diet problem
+crf
+    conditional random field
+crispr
+    clustered regularly interspaced short palindromic repeats
+crp
+    c reactive protein
+crss
+    conversational recommender systems
+csa
+    climate smart agriculture
+cscc
+    cross step consistency control
+cscm
+    circular supply chain management
+cscs
+    circular supply chains
+csfs
+    critical success factors
+csq
+    central similarity quantization
+ctfem
+    contextual text feature enhancement module
+cultivation
+    are still a challenge to improve efficiency in the links of production ( cultivation )
+cv
+    computer vision
+    the coefficient of variation ( cv )
+cvd
+    ure overall diet quality , especially for the prevention of cardiovascular disease ( cvd )
+cvs
+    computer vision systems
+cvss
+    computer vision systems
+cwgan-gp
+    conditional wasserstein gans
+cww
+    computing with word
+cwws
+    computing with words
+da
+    discriminant analysis
+dag
+    digital disruptions such as those under the umbrella of digital agriculture ( dag )
+    directed acyclic graphs
+dai
+    distributed artificial intelligence
+    the application of distributed ai ( dai )
+dar
+    domain adaptive recognition
+dash
+    cluding the mediterranean , mediterranean dietary approaches to stop hypertension ( dash )
+    the dietary approach to stop hypertension ( dash )
+david
+    nd utilized the database for annotation , visualization and integrated discovery ( david )
+dcn
+    es and reducing the processing time by using the deep convolutional neural network ( dcn )
+dcnn
+    deep convolutional neural network
+dcv
+    dynamic capability view
+deepmf
+    in this paper , firstly , deep matrix factorization ( deepmf )
+    we evaluate several model based techniques deep matrix factorization ( deepmf )
+delta
+    the change ( delta )
+dem
+    discrete element method
+dexp
+    we adopted the discrete latent exponent ( dexp )
+df
+    digital food
+dfa
+    discriminant factor analysis
+dfrs
+    s study aims to develop and evaluate the diabetes focused food recommender system ( dfrs )
+    to identify diabetes and advice patients on managing their condition via diet ( dfrs )
+dfsc
+    digital food supply chain
+dft
+    discrete fourier transform
+dgm
+    deep generative models
+dh
+    digital holography
+dhl
+    dietary healthy level
+diabetes
+    madhumeha ( diabetes )
+digitalization
+    virtualization ( digitalization )
+dii
+    dietary inflammatory index
+dips
+    and development of swrl rules optimization for an in patient diet planning system ( dips )
+dishes
+    finally , the foods ( dishes )
+diu
+    defuzzification interface unit
+dl
+    decision limit
+    deep learning
+    diabetic levels
+    distribution logistics
+dm
+    data mining
+    diabetes mellitus
+dml
+    double machine learning
+dn
+    , and dinner ( dn )
+dnc
+    by using the bmr value , the system calculates the daily needed food calories ( dnc )
+    the system estimates the values of overweight , daily needed food calorie ( dnc )
+dncf
+    deep neural collaborative filtering
+dncsat
+    , and saturated dnc ( dncsat )
+dne
+    distribution network efficiency
+dnn
+    deep neural network
+    deep neural networks
+    finally , deep learning architectures including a multilayer perceptron ( dnn )
+dnns
+    deep neural networks
+dofp
+    division of focal plane
+dolp
+    degree of linear polarization
+don
+    ne learning techniques to predict the concentration and presence of deoxynivalenol ( don )
+dos
+    domain ontologies
+dpmsd
+    dried porcini mushroom slices dataset
+dpn
+    deep polarized network
+dpp4
+    background : dipeptidyl peptidase 4 ( dpp4 )
+    dipeptidyl peptidase-4
+dpph
+    in the 2,2-diphenyl 1-picrylhydrazyl ( dpph )
+dqn
+    deep q network
+dqs
+    diet quality score
+drms
+    dynamic risk management system
+drnn
+    deep recurrent neural network
+dsm
+    dietary self monitoring
+dsr
+    design science research
+    design science researches
+dss
+    decision support system
+    the terms ' big data ' and ' decision support systems ' ( dss )
+dt
+    data technologies
+    death toll
+    decision tree
+    decision trees
+    delivery time
+    detection technology
+    development tools
+    development trends
+    diet therapy
+    dietary tracking
+    digital technologies
+    digital technology
+    digital tools
+    digital traceability
+    digital transformation
+    digital twin
+    digital twins
+    digitalization tools
+    dna-based technology
+    domain-specific terminology
+    drug therapy
+    drug toxicity
+    drying technology
+dta
+    decision tree approach
+durability
+    large scale , randomized placebo controlled trials with long term follow up ( durability )
+e-nose
+    electronic nose
+e5
+    and ' green iot driven total automation ( e5 )
+e7
+    arch findings suggest that ' legal and regulatory interventions from the government ( e7 )
+ea
+    enumeration area
+eai
+    embodied artificial intelligence
+eb
+    economic benefit
+ebl
+    e beam lithography
+ebnpgs
+    evidence based nutrition practice guidelines
+ec
+    -social dimension and ( ec )
+    electrical conductivity
+    european commission
+    microbiological criteria according to regulation ( ec )
+eci
+    age models , and a knowledge base validated by the encyclopedia of italian cuisine ( eci )
+ecp
+    expected care plan
+ed
+    eating disorders
+    energy dispersive
+eda
+    exploratory data analysis
+edkrm
+    , explicit domain specific knowledge retrieval module ( edkrm )
+edt
+    ensemble decision tree
+eeg
+    for olfactory electroencephalogram ( eeg )
+    was proposed to integrate electroencephalography ( eeg )
+eeio-v
+    environmentally extended inputoutput valuation model
+efa
+    exploratory factor analysis
+efficientnetb0
+    to 73.11 % ( efficientnetb0 )
+efs
+    electric field strength
+egcp
+    enhanced global covariance pooling
+ei
+    external integration
+eis
+    environmental impact score
+electricity
+    self sufficient high rise buildings , which integrate ( electricity )
+elisa
+    ty , convenience of use , and simplicity of the enzyme linked immunosorbent test ( elisa )
+elm
+    extreme learning machine
+ema
+    economically motivated adulteration
+emc
+    equilibrium moisture content
+ems
+    environmental microbes
+en
+    , to quantify ( en )
+engineering
+    , ( engineering )
+enstm
+     we describe a broader approach , focusing on the use of ensemble topic modeling ( enstm )
+ep22382095
+    atics food recommendation system patented by our research group , phymofood ( ep22382095 )
+    ut microbiota using a bioinformatics food recommendation system , phymofood ( ep22382095 )
+erfsc
+    emergency regional food supply chain
+    emergency regional food supply chains
+esg
+    teeism , increased productivity and improved environmental , social and governance ( esg )
+esr
+    electron spin resonance
+essa
+    enhanced squirrel search algorithm
+esv
+    ecosystem service value
+eta
+    ion of operations , the lstm networks make predictions of estimated delivery times ( eta )
+ets
+    electric trucks
+euma
+    2024 european microwave association ( euma )
+evhnet
+    to address these issues , this paper proposes an enhanced vit hash network ( evhnet )
+evoo
+    extra virgin olive oil
+eye
+    is the formal term for an intelligent induced robot that can operate with vision ( eye )
+fa
+    food addiction
+    food analysis
+    ion of critical milk adulterants , including variations in ph , urea , formaldehyde ( fa )
+fafh
+    food away from home
+fahp
+    fuzzy analytic hierarchy process
+fao
+     ' argovoc ' ontology from the food and agriculture organization of united nations ( fao )
+    and agriculture organization
+fas
+    food assurance systems
+fbanet
+    in this article , a frequency band attention network ( fbanet )
+fbcs
+    food bioactive compounds
+fbds
+    ools for the detection , monitoring , and control of microbial foodborne diseases ( fbds )
+fbps
+    background : food derived bioactive peptides ( fbps )
+fc
+    food chain
+fcd
+    food composition databases
+fcdbs
+    f high quality data , differences in country specific food composition databases ( fcdbs )
+    were included and aligned with national food composition dietary databases ( fcdbs )
+fcf
+    fruit concentration factor
+fcm
+    fuzzy cognitive map
+fcn
+    , fully convolutional neural network ( fcn )
+    fully connected networks
+    fully convolutional networks
+fcns
+    fully convolutional networks
+fct
+    food composition tables
+fcts
+    food composition tables
+fda
+    and drug administration
+    food delivery application
+    the us food and drug administration s ( fda )
+fdf
+    ferments du futur
+fdps
+    food derived peptides
+fdss
+    food delivery services
+fefo
+    first expired first out
+fel
+    food exchange list
+fels
+    food exchange lists
+fem
+    finite element method
+fera
+    fuzzy evidential reasoning approach
+fewss
+    blication is the focus on big data science for food , energy , and water systems ( fewss )
+ff
+    , glycemic and satiety potentials ( ff )
+ffis
+    functional food ingredients
+ffnn
+    iometric fluorescence probe , smartphone imaging and a feedforward neural network ( ffnn )
+ffps
+    former food products
+ffq
+    food frequency questionnaire
+fgas
+    food grade assessment scale
+fgb
+    food group balance
+fgcn
+    p , we propose a novel model food recommendation with graph convolutional network ( fgcn )
+fgsc
+    food grain supply chain
+fhs
+    food hypersensitivity
+fi
+    food industry
+fi4.0
+    s rfid employment in three pillars of the fourth generation of the food industry ( fi4.0 )
+fic
+    food image classification
+    food ingredient classification
+fid
+    frechet inception distance
+fis
+    fluorescence imaging system
+    fuzzy inference system
+fisc
+     which are processed through lstm to forecast the food insecurity composite score ( fisc )
+fit2
+    finite interval type 2
+fiu
+    fuzzification interface unit
+fkg
+    food knowledge graph
+fl
+    federated learning
+fls
+    fuzzy logic system
+flw
+    food loss and waste
+    loss and waste
+fmcw
+    frequency modulated continuous wave
+fmd
+    results : in this work , we construct a foodmicrobedisease ( fmd )
+fml
+    fuzzy markup language
+fml2
+    in addition , we also present a type 2 fml ( fml2 )
+fmsc
+    manufacturing and supply chain
+fndds
+    methods : data from the food and nutrient database for dietary studies ( fndds )
+    ues reported in the united states food and nutrient database for dietary studies ( fndds )
+fodmap
+    rmentable oligosaccharides , disaccharides , monosaccharides , and polyols diet ( fodmap )
+food
+    , and global food price ( food )
+    specifically , we propose a three step algorithm to recognize multi item ( food )
+food4me
+    ed on semi formal knowledge of personal nutrition gained in a previous project ( food4me )
+foodon
+    , and ncbo ( foodon )
+foods
+    food oriented ontology driven system
+    in three separate studies based on data from the food demand survey ( foods )
+foodvar
+     , we then seek out to design a novel multicriteria food recommendation system ( foodvar )
+foq
+    for minimum quality degradation ( foq )
+fowa
+    food objects with attributes
+fp
+    food preference
+fpb
+    food portion benchmark
+fpgas
+    field programmable gate arrays
+fph
+    food pairing hypothesis
+fphfss
+    fermatean probabilistic hesitant fuzzy sets
+fpi
+    food processing industry
+fpis
+    food processing industries
+fpn
+    feature pyramid network
+fpq
+    food preference questionnaire
+fqam
+    food quality analysis measure
+fr
+    fitness ratio
+    food recognition
+    food recommender
+frap
+    was used as two input variables , and ferric ion reducing antioxidant power ( frap )
+frcs
+    food risk components
+frlp
+    to address this gap , we introduce food recommendation as language processing ( frlp )
+frs
+    food recognition system
+    food recognition systems
+    food recommendation system
+    food recommendation systems
+    food recommender system
+    food recommender systems
+    food region segmentation
+    food/recipe/menu recommender system
+frss
+    food recommendation systems
+fs
+    food security
+fsa
+    food standards agency
+fsanz
+    used for food categorization and the food standards of australia and new zealand ( fsanz )
+fsc
+    food supply chain
+    food supply chains
+    this study aims to manage food wastage in regional food supply 7hchains ( fsc )
+fscm
+    food supply chain management
+    transforming various industries , the digital food supply chain management system ( fscm )
+fscs
+    food supply chains
+fsi
+    food systems informatics
+fsis
+    food safety incidents
+fsl
+    few shot learning
+fsma
+    food safety modernization act
+fsmss
+    food safety management systems
+fso
+    food safety objectives
+fsr
+    food service recommendation
+ftir
+     focuses on discussing mir spectroscopy , particularly fourier transform infrared ( ftir )
+    , fourier transform infrared ( ftir )
+    and fourier transform infrared ( ftir )
+    in this study , fourier transform infrared ( ftir )
+    this study introduces a non destructive approach using fourier transform infrared ( ftir )
+ftow
+    transformation offset and weight
+ftto
+    track and trace ontology
+fucom
+    full consistency method
+    present study proposes a novel framework integrating the full consistency method ( fucom )
+fvsc
+    crucially , we introduce a food factor based visual semantic consistency ( fvsc )
+fw
+    food waste
+fwg
+    food waste generation
+g2v
+    grid to vehicle
+ga
+    genetic algorithm
+gan
+    generative adversarial network
+    generative adversarial networks
+    graph attention network
+gans
+    generative adversarial networks
+gap
+    good agricultural practices
+gas
+    genetic algorithms
+    good and services
+gat
+    l information , and captures taste preference features via graph attention network ( gat )
+    this study introduces a graph attention network ( gat )
+gaussiannb
+    gaussian naive bayes
+gb
+    gradient boosting
+gbc
+    gradient boosting classifier
+gbell
+    the results disclosed that the anfis model with generalized bell shaped ( gbell )
+gbr
+    gradient boosting regressor
+gcms
+    , gas chromatographymass spectrometry ( gcms )
+    and gas chromatographymass spectrometry ( gcms )
+gcns
+    graph convolutional networks
+gdrs
+    ue based on gaussian distribution oversampling combined with random undersampling ( gdrs )
+genai
+    eates recipes using the vegetables that are in stock at home using generative ai ( genai )
+gfml
+    genetic fuzzy markup language
+gfsi
+    global food security index
+ghg
+    in addition to these problems , resource depletion and greenhouse gas ( ghg )
+ghi
+    global hunger index
+gi
+    glycemic index
+    gylcemic index
+gis
+    geographic information system
+    geographic information systems
+glm
+    generalized linear model
+glso-drnn
+    gradient lion-swarm optimized discrete recurrent neural network
+gm
+    genetically modified
+gmm
+    gaussian mixture model
+    gut microbial metabolite
+    gut microbial metabolites
+gnb
+    gaussian naive bayes
+gnn
+    graph neural network
+    graph neural networks
+    graph nural network
+    graph nural networks
+gnns
+    graph neural networks
+go
+    gene ontology
+google
+    and ( google )
+gpr
+    gaussian process regression
+gpt2
+    uage processing , machine learning , and the generative pre trained transformer 2 ( gpt2 )
+greedyhash
+    ed under three popular hash image retrieval frameworks , namely greedy hash ( greedyhash )
+grns
+    genetic reinforcement networks
+grr
+    rules and regulations
+gru
+    gated recurrent unit
+    gated recurrent units
+grus
+    gated recurrent units
+gsc
+    green supply chain
+gscap
+    the green supply chain of agricultural products ( gscap )
+gsconv
+    the improved yolov13 is equipped with group shuffle convolution ( gsconv )
+gum
+    greensboro urban ministry
+gzsd
+    generalized zero shot detection
+    notable 8.5 % improvement in harmonic mean on the fowa dataset in the genearl zsd ( gzsd )
+h.f.
+    on user preferences for item features , based on user behavior , hybrid filtering ( h.f. )
+haccp
+    analysis and critical control points
+    hazard analysis critical control point
+hafr
+    ed neural network based solution hierarchical attention based food recommendation ( hafr )
+halal
+    for class 0 ( halal )
+han
+    health and nutrition
+    heterogeneous attention network
+    heterogeneous attention networks
+    hierarchical attention network
+    hierarchical attention networks
+hana
+    healthy artificial nutrition analysis
+haram
+    similarly , for class 1 ( haram )
+hca
+    hierarchical cluster analysis
+    hierarchical clustering algorithms
+hcfc
+    hyperspectral context fuzzy classifier
+hci
+    human computer interaction
+hcrisis
+    ically draw for the first time the predictive analytics on humanitarian crisis ( hcrisis )
+hdac1
+    histone deacetylase-1
+    the ability of certain gras molecules to inhibit histone deacetylase 1 ( hdac1 )
+hdc
+    meter overcomes the first limitation through the use of hyperdimensional computing ( hdc )
+health
+    toward e health solutions that support self management of ( health )
+hei2015
+    mined the performance of dqs in combination with the healthy eating index 2015 ( hei2015 )
+hesdr
+     then classified using the proposed hybrid ensemble support vector deep residual ( hesdr )
+hfi
+    human food interaction
+hfice
+    hyperspectral food image context extractor
+hgann
+    , this research proposes a novel approach of hypergraph attention neural network ( hgann )
+hgt
+    heterogeneous graph transformer
+hin
+    heterogeneous information networks
+hog
+     in the third phase , additional filters , such as histogram of oriented gradients ( hog )
+    histogram of gradient
+    histogram of gradients
+hops
+    , and it has a 43.6 % shorter path distance ( hops )
+hoq
+    house of quality
+horeca
+    ness efficiency and sustainability in the hospitality , restaurant and catering ( horeca )
+hp
+    high pressure
+hpa
+    tolerance is crucial for managing hyperphenylalaninemia ( hpa )
+hplc
+    high performance liquid chromatograph
+    high performance liquid chromatography
+hr
+    heart rate
+hrs
+    healthy recommendation system
+hsfs
+    hierarchical spatial fusion strategy
+hsi
+    , hyperspectral imaging ( hsi )
+    analysis of safety and quality parameters of meat products , hyperspectral imaging ( hsi )
+    further , new smart technologies like hyperspectral imaging ( hsi )
+    hyperspectral images ( hsi )
+    hyperspectral imaging
+    hyperspectral imaging ( hsi )
+    r microbial detection are time and labor intensive , whereas hyperspectral imaging ( hsi )
+    spectroscopy and hyperspectral imaging ( hsi )
+hua
+    background : hyperuricemia ( hua )
+hw
+    models and integrating it into reconfigurable hardware ( hw )
+hysals
+    dy analyzes suitable machine learning methods and proposes a hybrid sarima lstm ( hysals )
+i2v
+    , image to video ( i2v )
+i4.0
+    purpose : exploring how industry 4.0 ( i4.0 )
+ian
+    interactive attention network
+ibs
+    irritable bowel syndrome
+icarob2022
+    the 2022 international conference on artificial life and robotics ( icarob2022 )
+icmsf
+    text of the international commission on microbiological specifications for foods ( icmsf )
+ict
+    and communication technology
+ide
+    image detail enhancement
+idf
+    international diabetes federation
+idra
+    intelligent diet recommendation agent
+idt
+    improved decision tree
+ifad
+    lopment projects supported by the international fund for agricultural development ( ifad )
+    taking the international fund for agricultural development ( ifad )
+ifas
+    intelligent food assurance system
+    intelligent food assurance systems
+ifrsni
+    duces an innovative intelligent food recommender system with nutrition insights ( ifrsni )
+ifsac
+    interagency food safety analytics collaboration
+ifss
+    intelligent food services
+ifst
+    2024 institute of food science and technology ( ifst )
+ifsttf
+    2024 institute of food , science and technology ( ifsttf )
+ig
+    information gain
+igfbp
+    lth conscious group , ketone bodies , insulin like growth factor binding protein ( igfbp )
+igkim
+    implicit general knowledge injection module
+iiot
+    industrial internet of things
+ikle
+    knowledge and learning environment
+ilsi
+    international life sciences institute
+images
+    n while google gemini pro vision was used to calculate the calories in the food ( images )
+imc
+    internal model control
+imhf
+    inter modality hybrid fusion
+imu
+    inertial measurement unit
+incv3
+    , inceptionv3 ( incv3 )
+india
+    2015 , association of food scientists and technologists ( india )
+    association of food scientists and technologists ( india )
+industrial
+    onsiderable room for performance improvement especially in dealing with new ( industrial )
+inform
+    udy , the author utilizes the recently created global index for risk management ( inform )
+ingid
+    sing and systematic reporting of ingredients used in commercially packaged foods ( ingid )
+inlfs
+    ough z score normalization and followed by the infinite latent feature selection ( inlfs )
+inmu
+    tives : to address these challenges , institute of nutrition , mahidol university ( inmu )
+inn
+    subsequently , an ingredient network ( inn )
+intact
+     used in the study , comprising two different classes : damaged and not damaged ( intact )
+interclass
+    in intraclass ( interclass )
+internet
+    chnological architecture , security and privacy , big data management and iot ( internet )
+iof
+    innovative technology can be , remotely controllable supported by machine learning ( iof )
+    internet of food
+iohuman
+    ires technologies such as super connectivity , ai , and the internet of humans ( iohuman )
+iomt
+    internet of medical things
+iontp
+    ring , there is a new era of internet of nonthermal food processing technologies ( iontp )
+iot
+    ed to accelerate and shift toward using technology like the ' internet of things ' ( iot )
+    internet of thing
+    internet of things
+ipc
+    integrated phase classification
+ipfs
+    interplanetary file system
+ipfsrs
+    intelligent personalized food service recommendation system
+ipls
+    interval partial least squares
+ipo
+    input process output
+ir
+     this , the present work aims at developing a non destructive infrared spectroscopy ( ir )
+    , infrared ( ir )
+    information retrieval
+    infrared ( ir )
+    instruction response
+ir4.0
+    moving from the fourth industrial revolution ( ir4.0 )
+is
+    inception score
+    information systems
+ism
+    interpretive structural modeling
+it2fss
+    interval type-2 fuzzy sets
+italy
+    s at the department of nephrology and dialysis , university hospital , catanzaro ( italy )
+itgr
+    ddress these challenges , we propose an integrated two stage group recommendation ( itgr )
+iv3
+    , random forest , and inception model ( iv3 )
+iw3c2
+    2017 international world wide web conference committee ( iw3c2 )
+iwp
+    irrigation water productivity
+jit
+    just in time
+jkbfms
+    government of jammu kashmir food civil supplies and consumer affairs department ( jkbfms )
+jp
+    c1_prcp includes pure rcp of jodhpuri ( jp )
+kaggle
+     , with the images coming from social media and already existing image datasets ( kaggle )
+kbf
+    knowledge based filtering
+kbph
+    rning algorithms , which includes k means with binary particle swarm optimization ( kbph )
+kbqa
+     as constrained question answering over a large scale food knowledge base / graph ( kbqa )
+    knowledge base question answering
+kefs
+    knowledge enhanced feature synthesizer
+kegg
+    analysis and kyoto encyclopedia of genes and genomes ( kegg )
+    and kyoto encyclopedia of genes and genomes ( kegg )
+kfos
+    key food odorants
+kg
+    knowledge graph
+kge
+    knowledge graph embedding
+kges
+    knowledge graph embeddings
+kie
+    key information enhancement
+km
+    knowledge management
+kmc
+    k means clustering
+knn
+    k nearest neighbor
+    k nearest neighbors
+    k-nearest neighbor
+    k-nearest neighbors
+kpis
+    key performance indicators
+large
+     is a task that can not be accurately solved by state of the art general purpose ( large )
+lb
+    ligand based
+lbp
+    local binary pattern
+lca
+    life cycle assessment
+lccc
+     , which become the mcdm inputs , where lin s concordance correlation coefficient ( lccc )
+lda
+    latent dirichlet allocation
+    linear discriminant analysis
+leap
+    methods : machine learning was applied to the learning early about peanut allergy ( leap )
+lem
+    leftovers evaluation management
+lgbm
+    light gradient boosting machine
+libs
+    laser induced breakdown spectroscopy
+lie
+    and ingredients encoding
+lightgbm
+     , decision tree , random forest , stacking , light gradient boosting machine ( lightgbm )
+    , light gradient boosting machine regressor ( lightgbm )
+    l odmd usage frequency were quantified by the light gradient boosting machine ( lightgbm )
+lime
+     literature reports on the use of local interpretable model agnostic explanations ( lime )
+    and local interpretable model agnostic explanations ( lime )
+    ffective learning techniques like local interpretable model agnostic explanations ( lime )
+    local interpretable model-agnostic explanation
+    parency and trust of the models , local interpretable model agnostic explanations ( lime )
+lims
+    laboratory information management system
+lit
+    in lifr net , a lightweight vit module called lightweight inter group transformer ( lit )
+llm
+    large language model
+    large language models
+    lightweight language models
+llms
+    large language models
+lmwgs
+    low molecular weight gelators
+ln
+    , lunch ( ln )
+lnas
+    lightweight neural architecture search
+loo
+    leave one out
+lorawan
+    d on energy efficient wireless sensor networks long range wide area networking ( lorawan )
+loso
+    leave one subject out
+lpa
+    latent profile analysis
+lr
+    linear regression
+    logistic regression
+lsa
+    latent semantic analysis
+lschnn
+    ropose a lightweight single view contrastive learning hypergraph neural network ( lschnn )
+lsd
+    least significant difference
+lstm
+    long short term memory
+    long short-term memory
+    set , our integrated recommender system , incorporating recurrent neural networks ( lstm )
+lvlms
+    large vision language models
+m1-m9
+    as response parameters and nine groups of molecular descriptors ( m1-m9 )
+ma
+    mamba attention
+maa
+    macro average accuracy
+mab
+    multi armed bandit
+macs
+     the jaccard index , and computational efficiency measured by multiply accumulate ( macs )
+mae
+    mean absolute error
+    mean average error
+mairca
+    multi attributive ideal real comparative analysis
+map
+    mean average precision
+map50
+    els , the yolov8 object detection model achieves the best mean average precision ( map50 )
+    sed method achieves state of the art performance , with a mean average precision ( map50 )
+mape
+    mean absolute percentage error
+    mean average percentage error
+mapk
+    mitogen activated protein kinase
+mapt
+    microtubule associated protein tau
+marmtf
+    multi attribute relation matrix tri factorization
+mas
+    multi agent systems
+mask-rcnn
+    mask region-based convolutional neural network
+maskdit
+     an ingredient aware diffusion model based on the masked diffusion transformer ( maskdit )
+masld
+    background : metabolic dysfunction associated steatotic liver disease ( masld )
+mass
+    multi agent systems
+    multi-agent systems
+mbc
+    minimum bactericidal concentration
+mc
+    moisture content
+mcc
+    matthews correlation coefficient
+    ntext aware attention mechanism with consistent distributions for recipe retrieval ( mcc )
+mccas
+    medium chain carbolic acids
+mcda
+    multi criteria decision analysis
+mcdm
+    multi criteria decision making
+    multiple criteria decision making
+mcen
+    modality consistent embedding network
+mcr
+    multivariate curve resolution
+md
+    mediterranean diet
+    molecular dynamics
+mdoe
+    multivariate design of experiments
+mds
+    multi dimensional scaling
+med
+    , mediterranean diet score ( med )
+meddiet
+     and behaviors , particularly focusing on the tenets of the mediterranean diet ( meddiet )
+mef
+    moderate electric field
+mefpn
+    sk2former , first , we designed the multi scale enhanced feature pyramid network ( mefpn )
+mel
+    , melamine ( mel )
+metabolomics
+    he food chain to verify the nature or origin of food , with both targeted ( metabolomics )
+mf
+    matrix factorization
+mfa
+    multiple factor analysis
+mfcc
+    mel frequency cepstral coefficients
+    the mlp ( mfcc )
+mfdas
+    mobile food delivery applications
+mfkg
+    multimodal food knowledge graph
+mfp
+    scale consumption data from a popular online fitness community called myfitnesspal ( mfp )
+mfqa
+    food question and answering
+    in this paper , we build a health oriented multimodal food q and a dataset ( mfqa )
+mfr
+    here , we propose a proof of concept machine learning based food risk ( mfr )
+    mass flow rate
+mhealth
+    mobile health
+    recent research has identified a few design flaws in popular mobile health ( mhealth )
+mic
+    minimum inhibitory concentration
+miou
+    mean intersection over union
+mip
+    molecularly imprinted polymer
+mir
+    , mid infrared ( mir )
+mkp
+    and market pressure ( mkp )
+ml
+    d in order to combine the new extension in blockchain , machine learning technology ( ml )
+    machine learning
+    metric learning
+    model-specific limitations
+    multi-label learning
+    multi-modal learning
+    multi-objective learning
+    multi-scale learning
+    multi-task learning
+    multi-view learning
+mlai
+    learning and artificial intelligence
+mllms
+    multimodal large language models
+    recent advances in multimodal large models ( mllms )
+mlp
+    , multilayer perceptron ( mlp )
+    and multilayer perceptron ( mlp )
+    and the multi layer perceptron neural network ( mlp )
+    le to smooth the limits of the classifier with the help of a multilayer perceptron ( mlp )
+    machine learning problem
+    multi layer perceptron
+    multilayer perceptron
+    of deep neural network models and structures , including the multilayer perceptron ( mlp )
+    sed machine learning algorithms using 2-d inputs , including multilayer perceptron ( mlp )
+    we used an ann with the structure of a ' multilayer perceptron ' ( mlp )
+mlpnn
+    g deep learning methods , which is a multi layer perceptron neural network model ( mlpnn )
+mlps
+    multilayer perceptrons neural networks
+mlr
+    multiple linear regression
+mlss
+    multiple learning strategies
+mmacmr
+    e propose a novel multi modal alignment method for cross modal recipe retrieval ( mmacmr )
+mmdl-rec
+    multi-model framework
+mmr
+    mixed method research
+mnb
+    multinomial naive bayes
+mnt
+    medical nutrition therapy
+mnvit
+    and the in vitro micronucleus test ( mnvit )
+moasa
+     mobile application was created called : mobile application for smart appliances ( moasa )
+moo
+    multi objective optimization
+mox
+    a low power sensor mote comprised of a capacity humidity sensor and a metal oxide ( mox )
+mp
+    microplastic ( mp )
+    mimetic pressure
+mpi
+    maximum permissible intake
+mps
+    background : microplastics ( mps )
+mpt
+    meal prediction tool
+mr
+    magnetic resonance
+    marginal relevance
+mra
+    microbiological risk assessment
+    multiple regression analysis
+mre
+    mean relative error
+mrfei
+    modified retail food environment index
+mrfnet
+    onse to the second question , we propose a multi receptive field fusion network ( mrfnet )
+mri
+    magnetic resonance imaging
+mrls
+    maximum residue limits
+ms
+    mass spectrometry
+mscim
+    multi scale context integration module
+mse
+    mean square error
+    mean square errors
+    mean squared error
+msi
+    this study explores the use of multispectral imaging ( msi )
+msl
+    multi scale learning
+    multi-scale learning
+mspl
+    medical service presentation layer
+msw
+    municipal solid waste
+mt-svm
+    multi-link tree-based support vector machine
+mtl
+    multi task learning
+    multi-task learning
+    multiple traffic light
+mvl
+    multi view learning
+    multi-view learning
+mvs
+    multi view stereo
+mw
+    among various techniques , microwave ( mw )
+    this study introduces a novel approach using microwaves ( mw )
+mwcn
+    multiwalled carbon nanotubes
+n=10
+    these studies used a variety of input data types , including food images ( n=10 )
+n=100
+    ility of algorithmically creating daily meal plans for a sample of user profiles ( n=100 )
+n=12
+    , pregnant ( n=12 )
+    and women ( n=12 )
+    data were used from men ( n=12 )
+n=12,163
+    the validated corpus ( n=12,163 )
+n=136
+    a proof of principle study with employees ( n=136 )
+n=195
+    we conducted a user study ( n=195 )
+n=200
+    ecommendation list of 4,671 recipes , and investigated in a web based experiment ( n=200 )
+n=26
+    an exploratory qualitative study ( n=26 )
+n=3
+    , and dietitians ( n=3 )
+n=397
+    to bridge these gaps , we conducted a comprehensive large scale ( n=397 )
+n=4
+    , and text data ( n=4 )
+n=5
+    , clinicians ( n=5 )
+n=502
+    in study 1 ( n=502 )
+n=504
+    in study 2 ( n=504 )
+n=64
+    , combined with a diverse set of food preference data ( n=64 )
+n=8
+    ent user groups were recruited to evaluate its usability : preparing for pregnancy ( n=8 )
+n=9
+    , sound and jaw motion data from wearable devices ( n=9 )
+nacr
+    in indonesia , the nutritional adequacy ratio ( nacr )
+nahco3
+    high salinity and sodium bicarbonate ( nahco3 )
+nams
+    new approach methodologies
+narm
+    noise adaptive recognition module
+nas
+    neural architecture search
+nb
+    , naive bayes classifier ( nb )
+nc
+    non compliance
+ncc
+    nutrition coordinating center
+ncdbf
+    to detect unlikely nutrient values in a nutrient composition data bank for foods ( ncdbf )
+ncds
+    non communicable diseases
+ncf
+    neural collaborative filtering
+ncs
+     expedite the discovery of previously unidentified food derived active ingredients ( ncs )
+    natural compounds
+ndcg
+    normalized discounted cumulative gain
+ndeval
+    of ga and rw s node evaluation ( ndeval )
+ndsr
+    l system that outputs fewer nutrients than the nutrition data system for research ( ndsr )
+ndt
+    non destructive testing
+nel
+    named entity linking
+ner
+    named entity recognition
+nevermind
+    and an and type nonvolatile memory ( nevermind )
+nfc
+    near field communication
+    non-microbial food contaminants
+    nondestructive food classification
+    nova food classification
+ngos
+    non governmental organizations
+nh3
+    mainly increased biomass but also increased nutrient sedimentation and ammonia ( nh3 )
+nhanes
+    2 to 20172018 cycles of the us national health and nutrition examination survey ( nhanes )
+    h dietary recall data from the national health and nutrition examination survey ( nhanes )
+niacin
+    , vitamin b3 ( niacin )
+nir
+    , followed by near infrared ( nir )
+    an alternative technique , infrared spectroscopy , including near infrared ( nir )
+    frared band is known for its detailed molecular fingerprinting , the near infrared ( nir )
+    in this paper , we study three near infrared ( nir )
+    it is in this context that near infrared ( nir )
+    near infrared ( nir )
+    nose , electronic tongue , computer vision system , and near infrared spectroscopy ( nir )
+    s chapter reviews the applications and future directions of portable near infrared ( nir )
+    t through a thorough examination of various solid food samples using near infrared ( nir )
+    the aim of this study was to assess the potential of using near infrared ( nir )
+    this paper presents a comprehensive review on near infrared ( nir )
+    ts in turmeric using advanced optical sensing techniques , including near infrared ( nir )
+    vibrational spectroscopy methods near infrared ( nir )
+nirs
+     each compound , spectra obtained from the scanning of near infrared spectroscopy ( nirs )
+    examples of those results include near infrared spectroscopy ( nirs )
+nl
+    /the netherlands ( nl )
+    9 % ( nl )
+nla
+    node-level attention
+nlog2n
+    kly search and count a large number of food objects with a time complexity of o ( nlog2n )
+nlp
+    natural language processing
+nltk
+    our new framework uses the natural language toolkit ( nltk )
+nmf
+    negative matrix factorization
+    non-negative matrix factorization
+nmr
+    , and nuclear magnetic resonance spectroscopy ( nmr )
+    nuclear magnetic resonance
+    nutrient-based meal recommendation
+nn
+    neural network
+nna
+    neural network approach
+nns
+    neural networks
+no2
+    , nitrites ( no2 )
+no3
+    , nitrates ( no3 )
+noisyvit
+    in this study , we investigate the potential of noisy vision transformers ( noisyvit )
+nors
+    national outbreak reporting system
+np
+    and non thermally ( np )
+npl
+    nitrogen pollution load
+npop
+    by leveraging the national program for organic production ( npop )
+nrf
+    nutrient rich foods
+nrkg
+    nutrition related knowledge graph
+nrs
+    nutrition recommendation systems
+nutn
+    meanwhile , the involved taiwanese students of national university of tainan ( nutn )
+nutraceuticals
+    trition in a sustainable manner but also medicinally valuable compounds ( nutraceuticals )
+oaei
+    ontology alignment evaluation initiative
+obo
+    by reusing and extending open biological and biomedical ontology ( obo )
+ocr
+    optical character recognition
+od
+    olfactory dysfunction
+odc
+    the overall daily food calorie ( odc )
+odmd
+    on demand meal delivery
+oecd
+     principles defined by the organization for economic co operation and development ( oecd )
+ofcs
+    oral food challenges
+ofd
+    online food delivery
+oil
+    happening in palestinian territories , oil price ( oil )
+ols
+    ordinary least squares
+omas
+    this paper proposes an ontology based multi agents ( omas )
+omrm
+    , and further optimized using an optimization based recommendation model ( omrm )
+ontofood
+    , ncbo ( ontofood )
+ontologies
+    due to the development of knowledge models ( ontologies )
+oob
+    out of bag
+    the hybrid architecture uses out of the box ( oob )
+optics
+    n method , quantum powered ordering points to identify the clustering structure ( optics )
+or
+    advantage of the system is , it will not collect commission from home makers ( or )
+    this can be done in two methods either manual ( or )
+organizational
+    ce principles to explore causal relationships between food distribution ( organizational )
+ors
+    d features and used a generalized linear regression model to estimate odds ra tios ( ors )
+orthogonal
+    importantly , these components are statistically independent ( orthogonal )
+ota
+    , and ochratoxin a ( ota )
+overall
+    cancer ( overall )
+owl
+    additionally , web ontology language ( owl )
+    ontology web language
+    semantic web technologies , such as the web ontology language ( owl )
+pa
+    precision agriculture
+    propionic acid
+pacp
+    the public authority for consumer protection ( pacp )
+pad
+    pleasure arousal dominance
+pah
+    tive observational study , we collected the genotypes of phenylalanine hydroxylase ( pah )
+papv
+    was input for 2965 missense variants in the pah gene using a predicted apv ( papv )
+participants
+     by the participants and tested with the app , while the human evaluators ( participants )
+pat
+    process analytical technology
+pb
+    perceived benefits
+pbdes
+    polybrominated diphenyl ethers
+pbpk
+    modeling , physiologically based pharmacokinetic ( pbpk )
+pc
+    principle component
+pca
+    principal component analysis
+    principal component analyze
+    principal coordinate analysis
+pcbs
+    polychlorinated biphenyls
+pcc
+    percentage of calories from carbohydrate
+pcf
+    percentage of calories from fat
+pcp
+    percentage of calories from protein
+pcr
+    percentage of caloric ratio
+pcs
+    principal component similarity
+pct
+    and chemical testing
+pd
+    personalized diet
+pda
+    personal digital assistant
+pdi
+    pentaho data integration
+pdm
+     quality checks with up to 96 % 100 % accuracy , ai enabled predictive maintenance ( pdm )
+pds
+    public distribution system
+pe
+    preference elicitation
+peg
+    polyethylene glycol ( peg )
+pfass
+    per and polyfluoroalkyl substances ( pfass )
+pfi
+    permutation feature importance
+pfm
+    personal food model
+pfq
+    the acquired data is assessed to estimate the probability of food quality ( pfq )
+    the framework assesses data to calculate the probability of food quality ( pfq )
+pfr
+    personalized food recommendation
+    predicted food rating
+pfss
+    pythagorean fuzzy sets
+ph
+    patient health
+    pentamethyl heptane
+    personal health
+    personal history
+    personalized healthcare
+    personalized healths
+    phenylalanine hydroxylase
+    physical health
+    planetary health
+    population health
+    post-harvest handling
+    protein hydrolysate
+    public health
+phd
+    planetary health diet
+phe
+    background : assessing dietary phenylalanine ( phe )
+pi3k
+    ing immunity through signal pathways such as phosphatidylinositol 3-hydroxykinase ( pi3k )
+pic50
+    random forest regression models were utilized to predict the ic50 ( pic50 )
+pk
+    c structure , physicochemical properties , and post meal changes in pharmacokinetic ( pk )
+pku
+    phenylketonuria ( pku )
+plm
+    in this work , we leverage pre trained language models ( plm )
+    we introduce kitchenscale , a fine tuned pre trained language model ( plm )
+pls
+    partial least square
+    partial least squares
+pls-da
+    partial least squares discriminant analysis
+    partial least squares discriminant analyzes
+plsr
+    partial least squares regression
+pmepr
+    perturbation margin enhanced prototype regularization
+pmis
+    protein matrix interactions
+pnar
+    proposed new autonomous region
+pnn
+    and probabilistic ( pnn )
+    probabilistic neural network
+    probabilistic neural networks
+po
+    performance objectives
+pofg
+    probability of food grade
+poi
+    point of interest
+pops
+    persistent organic pollutants
+popular
+    despite their potential , often recommended ( popular )
+pos
+    point of sale
+pp
+    production planning
+ppg
+    aims to validate a non contact method to measure hr using the photoplethysmography ( ppg )
+ppgr
+    ferent macronutrient composition can have distinct postprandial glucose responses ( ppgr )
+ppi
+    protein protein interaction
+ppm
+    pyramid pooling module
+pr
+    perceived risk
+pre
+    s of leveraging ai tools for comprehensive two dimensional gas chromatography data ( pre )
+prisma
+    aspects using preferred reporting items for systematic review and meta analysis ( prisma )
+    followed the preferred reporting items for systematic reviews and meta analyses ( prisma )
+    h five research questions using preferred reporting items for systematic review ( prisma )
+    nce with the preferred reporting items for systematic reviews and meta analyses ( prisma )
+profiling
+    and non targeted ( profiling )
+profus
+    subsequently , a progressive food knowledge fusion ( profus )
+psen1
+    , presenilin 1 ( psen1 )
+psnr
+    of the proposed model reaches 1.00 , and the peak signal to noise ratio ( psnr )
+pso
+    particle swarm optimization
+    particle swarm optimization method
+pt
+    and 47 % ( pt )
+    the solution was optimized to consider local eating culture in portugal ( pt )
+ptafd
+    progressive temperature aware feature distillation
+qc
+    quality control
+qca
+    qualitative comparative analysis
+qda
+    quadratic discriminant analysis
+qfd
+    quality function deployment
+qi
+    quality identifications
+    quality inspection
+qmra
+    quantitative microbial risk assessment
+qol
+    quality of life
+qr
+    quick response
+qsar
+    , we used machine learning to develop quantitative structureactivity relationship ( qsar )
+    e tolerances from the perspective of quantitative structureactivity relationships ( qsar )
+    quantitative structure activity relationship
+qsor
+    quantitative structure odour relationship
+qspr
+    quantitative structure property relation
+    quantitative structure property relationship
+quality
+    apps were assessed using mars ( quality )
+r101
+    , resnet 101 ( r101 )
+r2
+    , and r squared ( r2 )
+    and coefficient of determination ( r2 )
+    of 0.059 and correlation coefficient ( r2 )
+    of 0.123 and an r squared ( r2 )
+    the regression model has given a higher coefficient of determination ( r2 )
+r50
+    we evaluated combinations of four feature extractors [ resnet 50 ( r50 )
+raef
+    recognize after early fusion
+rag
+    retrieval augmented generation
+    retrieval-augmented generation
+rapw
+     advanced data analysis methods are being applied to risk analysis and prewarning ( rapw )
+rar
+    retrieval augmented recognition
+rasff
+    ted food safety notifications from the eu s rapid alert system for food and feed ( rasff )
+rb
+    , rice hull ( rb )
+rbf
+    radial basis function
+    radial basis functions
+rbfrs
+    rule based food recommender system
+rbm
+    restricted boltzmann machine
+rbr
+    rule based reasoning
+rbv
+    resource based view
+rcf
+    root concentration factor
+rcg
+    random centroid optimization for site directed mutagenesis of amino acid sequences ( rcg )
+rcnn
+    , region based convolutional neural networks ( rcnn )
+rco
+    random-centroid optimization
+rcp
+    red chili powder
+    to tackle the challenge of red chili powder adulteration ( rcp )
+rcpkg
+    first , we construct a recipe knowledge graph ( rcpkg )
+rcpmkr
+    asis , a novel multi modal recipe recommendation method via the knowledge graph ( rcpmkr )
+rd
+    robusta dampit
+rdad
+    rotating disk air distribution
+rdi
+    reconnaissance drought index
+recipe
+     in the visualization of chinese recipes with english translations through text ( recipe )
+    -to image and image to text ( recipe )
+recsys
+    food recommender systems ( recsys )
+regression
+    the demand is often forecasted using econometric ( regression )
+resnet
+    , residual neural network ( resnet )
+    -19 , mobilenet v2 , and residual network ( resnet )
+    and residual neural network ( resnet )
+    while residual neural network ( resnet )
+restaurants
+    the datasets were collected from youtube , facebook , the field ( restaurants )
+retinol
+    ine learning algorithms to predict unreported micronutrients such as vitamin a ( retinol )
+rf
+    antly better than others , we observed that the overall performance of the adaboost ( rf )
+    highlighted random forest s ( rf )
+    random forest
+    random forests
+    ready-to-eat foods
+    reference frame
+    rotation forest
+    ruminant feed
+rfddm
+    region feature denoising diffusion model
+rfe
+    recursive feature elimination
+rfeh
+    radio frequency energy harvesting
+rfid
+    among them , radiofrequency identification ( rfid )
+    radio frequency identification
+rfr
+    random forest regression
+rgcn
+    relational graph convolutional networks
+ri
+    robotic intelligence
+riboflavin
+    , vitamin b2 ( riboflavin )
+rice
+    the dietary risk of cadmium is 1.61 ( rice )
+ricgraph
+    our heterogeneous graph ( ricgraph )
+rl
+     incorporating the dynamic and adaptive nature of reinforcement learning algorithms ( rl )
+    reinforcement learning
+rlp
+    however , a general purpose recommendation as language processing ( rlp )
+rm
+    replacement method
+rmp
+    regression models procedure
+rmse
+    root mean square error
+    root mean square errors
+    root mean squared error
+    root mean squared errors
+rmsecv
+    the root mean square error of cross validation ( rmsecv )
+rmsle
+    root mean squared log error
+rnn
+    recurent neural network
+    recurrent neural network
+    recurrent neural networks
+    regression neural networks
+    resnet neural network
+rnns
+    recurrent neural networks
+ror
+    rate of rise
+ros
+    random oversampling
+rpn
+    region proposal network
+rr
+    relative risks
+rrmad
+    and resiliency mean absolute deviation
+rs
+    recommender system
+    recommender systems
+    remote sensing
+rsd
+    relative standard deviation
+rsl
+    remaining shelf life
+rsm
+    response surface methodology
+rss
+    recommender systems
+rssi
+    received signal strength indicator
+rt
+    retention time
+    robusta temanggung
+rtd
+    research through design
+rte
+    ready to eat
+rtt
+    round trip time
+rupiah
+     per capita expenditure in urban and rural areas by province and group of goods ( rupiah )
+rusboost
+    in this framework , random undersampling boosting ( rusboost )
+rusle
+    revised universal soil loss equation
+rva
+    raw video analysis
+rw
+    random walk
+s3
+    and a device called small sensor system , ( s3 )
+    f new technologies is based on the notion of sense , smartness , and sustainability ( s3 )
+    sdg 3
+s3m
+    seeds consists of two modules : a semantic separable synthesizing module ( s3m )
+sa
+    sentiment analysis
+    standard accuracy
+saas
+    software as a service
+saber
+    given the reduced sample quantity by signal amplification by reversible exchange ( saber )
+sabl
+    side aware boundary localization
+saes
+    , stacked autoencoders ( saes )
+safety
+     , accountability , fairness , explainability , transparency as core principles ( safety )
+sam
+    segment anything model
+    self attention mechanism
+    sustainable agricultural management
+sarsa
+    results show that algorithms like stateactionrewardstateaction ( sarsa )
+saw
+    simple additive weighting
+sc
+    semantic concern
+    smart contract
+    soft computing
+    supply chains
+sci
+    supply chain integration
+scm
+    standard composite materials
+    structural causal modeling
+    structural causal models
+    supply chain management
+scr
+    supply chain responsiveness
+scri
+    supply chain resource integration
+scv
+    supply chain visibility
+sd
+    a ' semantic dilemma ' ( sd )
+    mean ( sd )
+    results : in both absolute and relative terms , the mean ( sd )
+sdg
+    sustainable development goal
+    sustainable development goals
+sdgs
+    sustainable development goals
+se
+    and excitation
+seac
+    odel based learning and reasoning loop , which is known from self aware computing ( seac )
+sebd
+    2016 , sistemi evoluti per basi di dati ( sebd )
+sebes
+    m of the present study was to develop a fast , but sensomics based expert system ( sebes )
+sec
+    08 c min1-ror , 40 rpm , 22.27 min , 1.37 kwh kg gari1-specific energy consumption ( sec )
+seconds
+     it already has applications in different process with very short elapsed time ( seconds )
+seeds
+    to tackle this , we propose the semantic separable diffusion synthesizer ( seeds )
+sefro
+    semantic explainable food recommendation ontology
+sem
+    structural equation modeling
+sers
+    surface enhanced raman spectroscopy
+ses
+    socio economical status
+sf
+    logistic regression ( sf )
+sfa
+    saturated fatty acid
+sff
+    selective feature filtering
+sfn
+    published by elsevier masson sas on behalf of societe francaise de nutrition ( sfn )
+sg
+    savitzky golay
+    sleeve gastrectomy
+shap
+     the fds domain and explained the predictions using shapley additive explanations ( shap )
+    based on the key findings from explainable ai ( shap )
+    furthermore , utilizing shapley additive explanations ( shap )
+    high accuracy and shapley additive explanations ( shap )
+    model with shapley additive explanations ( shap )
+    shapley ( shap )
+    te perturbation , while supervised models and their shapley additive explanations ( shap )
+    tools such as shapley additive explanations ( shap )
+    with shapley additive explanations ( shap )
+shr
+    satisfied hit rate
+si
+    , 3.40-swelling index-( si )
+    moreover , the moderating role of supply chain integration ( si )
+    semantic interoperability
+    swarm intelligence
+sift
+    scale invariant feature transform
+    scale invariant feature transforms
+simca
+    and soft independent modeling of class analogy ( simca )
+simmacro
+    the results show the acceptability rate of 100 % and the accuracy ( simmacro )
+skm
+    spherical k means
+sl
+    safety legislation
+    sample learning
+    satisfaction level
+    scientific literature
+    scripting languages
+    security level
+    self-supervised learning
+    semantic levels
+    semi-supervised learning
+    sensor layers
+    sentence level
+    shelf life
+    shopping lists
+    simulation-based learning
+    skill levels
+    small-sample learning
+    smart labels
+    smart life
+    social life
+    spatial layout
+    spinach leaves
+    statistical learning
+    stock level
+    structural learning
+    structure learning
+    supervised learning
+    systematic literature
+sla
+    semantic-level attention
+slci
+    redient recognition network called structural learning and cross task interaction ( slci )
+slovakia
+    2017 national agricultural and food center ( slovakia )
+slr
+    systematic literature review
+sm
+    and softmax ( sm )
+sma
+    social media analytics
+small
+    y conclude food characteristics as nonrigid , complex in arrangement , and large ( small )
+smes
+    modeling affective temperature control in food small and medium sized enterprises ( smes )
+    rocess effectiveness in overcoming barriers to small and medium sized enterprises ( smes )
+smo
+    sequential minimal optimization
+smote
+    : using two data balancing techniques synthetic minority over sampling technique ( smote )
+    synthetic minority oversampling technique
+smpt
+    ve self training approach called semi supervised multi model prediction technique ( smpt )
+smv
+    , support vector machine ( smv )
+smwl
+    semantic medical web layer
+sna
+    social network analysis
+snn
+    siamese neural network
+sns
+    stakeholder needs
+so
+    ( so )
+so32
+    , and sulfites ( so32 )
+soc
+    soil organic carbon
+societal
+    and consumption ( societal )
+socip
+    self optimising clean in place
+software
+     using two predictive machine learning based methods and separate instruments ( software )
+som
+    self organising map
+    self organizing map
+    self organizing maps
+    self-organizing maps
+    sustainable operations management
+soms
+    self organizing maps
+    self-organizing maps
+sor
+    stimulus organism response
+sota
+    state of the art
+sp
+    sustainable performance
+sparql
+    , the sparql protocol , and the rdf query language ( sparql )
+spvs
+    single plurality voting system
+sr
+    scoping review
+    seafood recognition
+    semantic reasoning
+    semantic recipe
+    semantic resources
+    semantic rule
+    semantic-based recommendation
+    semi-personalized recommendation
+    similarity-weighted rating
+    social-ecological resilience
+    state representation
+    structure-activity relationship
+    synchrotron radiation
+    systematic review
+    systematic reviews
+src
+    step wise regional control ( src )
+srd
+    the sum of ranking differences ( srd )
+sresa
+    , under exclusive license to society for reliability and safety ( sresa )
+srss
+    smart recipe suggestion system
+ssa
+    separable self attention
+ssd
+    single shot detector
+    small size dataset
+sseeds
+    stable and efficacy enhanced delivery systems
+ssim
+    spectral spatial information mining
+    structural similarity index measure
+st
+    semantic technology
+stl
+    ased models with attention mechanisms and seasonal trend decomposition using loess ( stl )
+stm
+    structural topic modeling
+str
+    stock turnover ratio
+sua
+    serum uric acid
+sucola
+    this article proposes a novel self supervised framework ( sucola )
+sus
+    system usability scale
+svc
+    support vector classification
+    support vector classifier
+svd
+    singular value decomposition
+svd++
+    , and its enhanced variant singular value decomposition++ ( svd++ )
+svm
+    support vector machine
+    support vector machines
+    support vectors machine
+svms
+    support vector machines
+svmtafrs
+    ormulated a support vector machine powered time aware food recommender system ( svmtafrs )
+svn2
+    with support vectored neural networks ( svn2 )
+svr
+    support vector regression
+sw
+    semantic web
+swe
+    sensor web enablement
+swir
+    , and short wave infrared ( swir )
+swof
+    semantic web of food
+swrl
+    semantic web rule language
+t1d
+    type 1 diabetes
+t2d
+    type 2 diabetes
+    type-2 diabetes
+t2fml
+    type 2 fuzzy markup language
+    type-2 fuzzy markup language
+t2fo
+    type 2 fuzzy ontology
+    type-2 fuzzy ontology
+t2fss
+    type 2 fuzzy sets
+t2i
+    egen , the first large scale , real world benchmark for recipe based text to image ( t2i )
+t2v
+    , and text to video ( t2v )
+ta
+    technological advancements
+tam
+    technology acceptance model
+tanh
+    and with the hyberbolic tangent ( tanh )
+tbars
+    xidation in salmon flesh , quantified by thiobarbituric acid reactive substances ( tbars )
+tbfi
+    traditional bengali food image
+tbl
+    triple bottom line
+tcmsp
+    traditional chinese medicine systems pharmacology database and analysis platform ( tcmsp )
+tco
+    total cost of ownership
+tde
+    technology development envelope
+    technology development evaluation
+tdrs
+    technical design requirements
+te
+    for reliably predicting the process temperature ( te )
+technologyorganisationenvironmenthuman
+    a conceptual framework based on toeh ( technologyorganisationenvironmenthuman )
+tf-idf
+    term frequencyinverse document frequency
+tff
+    thai fast food
+thiamin
+    , vitamin c , vitamin b1 ( thiamin )
+thz
+    this review evaluates terahertz ( thz )
+ti
+    , initial product temperature ( ti )
+tl
+    transfer learning
+    transform learning
+    triplet loss
+tnf
+    tumor necrosis factor
+tod
+    time of day
+toe
+     using fera from the perspectives of the technology , organization and environment ( toe )
+    ethod that was guided by the technology , organization , and environment framework ( toe )
+    technological organizational enviornmental
+topsis
+    d an improved technique for order preference by similarity to an ideal solution ( topsis )
+tr
+     work describes the development of an in silico model to predict the retention time ( tr )
+tra
+    health canada s table of reference amounts ( tra )
+trf
+    time resolved fluorescence
+ttl
+    an excerpt of the ontology s turtle ( ttl )
+tv
+    setting : from a collection of brazilian television ( tv )
+tvocs
+    total volatile organic compounds
+ugcop
+    heir effectiveness hinges on addressing the uncertain geographic context problem ( ugcop )
+ugt2b7
+    and uridine diphosphate glucuronosyltransferase 2b7 ( ugt2b7 )
+uhf
+    ultra high frequency
+ui
+    user interface
+uid
+    user identity document
+uk
+    united kingdom
+umls
+    unified medical language system
+un
+    united nations
+unimib2016
+    additionally , we tested nutrinet on the university of milano bicocca 2016 ( unimib2016 )
+unsupervised
+    nciple , such deep learning methods are only trained on normal image data ( unsupervised )
+up
+    user preference
+upcs
+    universal product codes
+upfs
+    ultra processed foods
+uscat
+    this research examines how the use of supply chain analytics technologies ( uscat )
+usdasr
+     sources , using the united states department of agriculture standard reference ( usdasr )
+uvvis
+    ards for spectroscopy in food analysis primarily focus on uvvisible spectroscopy ( uvvis )
+vaes
+    and variational autoencoders ( vaes )
+vbcar
+    variational bayesian context aware representation
+vfn
+    besides , experiments on the viper foodnet ( vfn )
+vgg
+    visual geometry group
+vif
+    variance inflation factor
+vit
+    and vision transformer ( vit )
+    based on a pre trained vision transformer ( vit )
+    ounting , is processed using convolutional neural networks and vision transformers ( vit )
+    vision transformers
+vits
+    methods : our approach , which combines cnns and vision transformers ( vits )
+vlm
+    vision language model
+vlms
+    vision language models
+voc
+    volatile organic compounds
+vocs
+     second most consumed beverage , and its aroma , determined by volatile compounds ( vocs )
+    volatile organic compounds
+vr
+    virtual reality
+vswl
+    vital sensor web layer
+w3c
+     , a mature and popular food indexing thesaurus , into a world wide web consortium ( w3c )
+wasd
+    weighted average source distance
+wb
+    wheat bran
+wef
+    water energy food
+weka
+    waikato environment for knowledge analysis ( weka )
+wemf
+    week end multiplying factor
+wfa
+    world food atlas
+wfeee
+    water food ecology environment economy
+wfs
+    wingsuit flying search
+wheat
+    and 1.59 ( wheat )
+who
+    world health organization
+wiou
+    modules and wise iou ( wiou )
+wip
+    work in progress
+wlm
+    whale levenberg marquardt
+wmf
+    furthermore , we develop a weighted multi granularity fusion ( wmf )
+wms
+    warehouse management system
+    warehouse management systems
+ws
+    wood saw
+wsn
+    wireless senors network
+    wireless sensors network
+xai
+    along with explainable ai ( xai )
+    data privacy and ethics matter , requiring explainable ai ( xai )
+    explainable ai ( xai )
+    explainable artificial intelligence
+    ility of the model , and suggests the use of interpretable artificial intelligence ( xai )
+    rapid research on explainable ai ( xai )
+    riginal 1,132,367 ratings , the system incorporates a comprehensive explainable ai ( xai )
+    this paper presents a state of the art review of explainable ai ( xai )
+xgboost
+    , extreme gradient boosting ( xgboost )
+    , extreme gradient boosting regressor ( xgboost )
+    g the conventional machine learning models , such as extreme gradient boosting ( xgboost )
+xgdeepfm
+    s 0.432 and lowering rmse from 1.089 to 0.534. furthermore , a hybrid variant ( xgdeepfm )
+xo
+    xanthine oxidase
+xod
+    in recent years , food derived xanthine oxidase ( xod )
+xrf
+    x ray fluorescence
+yolo
+    you only look once
+yolov4
+    you only look once version 4
+yolov5
+    , and you only look once v5 ( yolov5 )
+zesf
+    in , we introduce zero shot food detection with semantic space and feature fusion ( zesf )
+zifs
+    zeolitic imidazolate frameworks
+zsd
+    zero shot detection
+zsfd
+    zero shot food detection

@@ -1,0 +1,9 @@
+CLUSTER	N_UNITS	OCC	TLS	CENTRALITY	DENSITY	N_DOCS	N_DOCS_PERCENTAGE	MEAN_YEAR	MEDIAN_YEAR	FIRST_YEAR	LAST_YEAR	GROWTH_RATE	EMERGENCE_SCORE	STRATEGIC_ROLE	UNITS
+0	40	319	1833	123.1404	28.1876	69	50.36 %	2012.9	2013	2009	2016	0.72	0.6300000000000001	Motor	food products; neural networks; computer vision
+1	28	201	1481	116.4879	37.9293	35	25.55 %	2013.9	2015	2009	2016	1.69	2.4000000000000004	Specialized/Niche	food recommendation system; food ingredients; food recommendation
+2	16	69	553	115.4216	29.8768	7	5.11 %	2014.9	2015	2013	2016	2.5	3.14	Specialized/Niche	artificial intelligence; machine learning; food image recognition
+3	16	61	367	86.2811	22.4375	8	5.84 %	2013.9	2015	2009	2016	1.67	1.53	Emerging/Declining	food science; predictive analytics; health conditions
+4	12	65	866	136.531	60.7581	4	2.92 %	2012.2	2012	2011	2013	0.0	-3.23	Motor	nutritional information; food category; fuzzy food ontology
+5	11	85	842	126.8094	26.423	7	5.11 %	2012.3	2013	2009	2015	0.75	-0.5900000000000001	Motor	food ontology; food intake; diabete
+6	11	45	324	40.2681	63.6995	5	3.65 %	2013.2	2015	2009	2016	1.5	0.86	Specialized/Niche	food analysis; detection; chemistry
+7	10	62	660	123.3466	27.5807	2	1.46 %	2010.0	2010	2010	2010	0.0	-4.72	Motor	nutrition; healthy diet; fuzzy inference
