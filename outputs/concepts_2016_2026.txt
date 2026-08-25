@@ -1,0 +1,114 @@
+                                         OCC  OCC_BASELINE  OCC_RECENT  NONZERO_YEARS   PO   PF  NP GROWTH_RATE GROWTH_RATE_RATIO
+CONCEPT_NORM                                                                                                                     
+covid-19                                  33             0          17              7  2.0    7   0           —                 —
+healthiness                               20             2          12              8  1.0    4   0           —                 —
+health and nutrition                      16             0          12              6  1.0    5   0           —                 —
+k-means clustering                        14             0          10              6  1.0    5   0           —                 —
+greenhouse gas emissions                  10             0          10              3  1.0    5   0           —                 —
+consumer satisfaction                     10             0          10              4  1.0    4   0           —                 —
+healthier food choices                     9             0           9              3  2.0    4   0           —                 —
+peptides                                   8             0           8              3  2.0    3   0           —                 —
+agricultural products                     15             2           7              6  1.0    3   0           —                 —
+agri food systems                         10             0           7              4  1.0    4   0           —                 —
+supply chain efficiency                    7             0           7              3  1.0    3   0           —                 —
+visual geometry group                      7             0           5              4  1.0    2   0           —                 —
+pesticide residues                        11             0           9              4  1.0    6   1       500.0         11.108643
+bioactive compounds                       11             2           9              4  1.0    5   1       400.0          8.886914
+harvest                                   11             0          11              4  1.0    4   1       300.0          6.665186
+food business                             13             0           9              5  1.0    4   1       300.0          6.665186
+unhealthy food                             7             0           7              3  1.0    4   1       300.0          6.665186
+heterogeneous graph                        7             0           7              3  1.0    4   1       300.0          6.665186
+health data                                7             0           7              3  1.0    4   1       300.0          6.665186
+shapley additive explanations             20             0          18              4  1.0   10   2  216.227766          4.803994
+precision nutrition                       13             0          13              4  1.0    9   2       200.0          4.443457
+forecasting models                         8             0           6              4  1.0    3   1       200.0          4.443457
+explainable artificial intelligence       47             0          40              6  1.0   19   3  166.840165          3.706736
+internet of things sensors                11             0          11              3  1.0    7   2  164.575131          3.656413
+ai potential                               9             0           9              3  1.0    7   2  164.575131          3.656413
+synthesis                                 10             0          10              3  1.0    6   2  144.948974          3.220373
+diabetes management                        9             0           9              3  1.0    6   2  144.948974          3.220373
+language models                           70             0          69              5  1.0   33   4  139.678173           3.10327
+environmental sustainability              13             0          13              3  3.0    7   1  133.333333          2.962305
+health goals                              10             0          10              4  1.0    5   2  123.606798          2.746207
+ingredient substitution                   12             0           9              4  1.0    5   2  123.606798          2.746207
+food innovations                           8             0           8              3  1.0    5   2  123.606798          2.746207
+supply chain disruptions                   7             0           7              3  1.0    5   2  123.606798          2.746207
+dietary                                   26             0          23              5  1.0   11   3  122.398009          2.719351
+artificial intelligence models            23             0          23              4  1.0   11   3  122.398009          2.719351
+dietary preferences                       22             0          22              4  1.0   11   3  122.398009          2.719351
+graph neural networks                     22             0          22              4  2.0    9   2  112.132034          2.491269
+inventory management                      24             0          24              4  1.0    9   3  108.008382          2.399653
+generative artificial intelligence        20             0          20              4  1.0    8   3       100.0          2.221729
+sustainable practices                     14             0          14              4  1.0    8   3       100.0          2.221729
+multi-task learning                        8             0           8              3  1.0    4   2       100.0          2.221729
+electric potential                         7             0           7              3  1.0    4   2       100.0          2.221729
+therapy                                    7             0           7              3  1.0    4   2       100.0          2.221729
+post-harvest loss                          7             0           7              3  1.0    4   2       100.0          2.221729
+contrastive learning                      14             0          14              4  1.0    7   3   91.293118          2.028285
+food processing industry                  19             0          14              5  2.0    7   2   87.082869          1.934745
+resource allocation                       11             0          11              3  2.0    7   2   87.082869          1.934745
+predictive performance                    11             0          11              3  2.0    7   2   87.082869          1.934745
+electronic health record                  10             0          10              3  1.0    6   3   81.712059           1.81542
+user engagement                            8             0           8              3  1.0    6   3   81.712059           1.81542
+operational efficiency                    23             0          22              5  1.0   10   4   77.827941          1.729126
+agricultural practices                    70             2          59              9  1.0   30   6   76.273438          1.694589
+food waste reduction                      38             0          33              6  1.0   16   5   74.110113          1.646525
+dietary planning                          27             0          19              8  1.0    9   4   73.205081          1.626418
+individual preferences                    15             0          14              5  1.0    9   4   73.205081          1.626418
+chatgpt                                   11             0          11              3  2.0    6   2   73.205081          1.626418
+fourier transform infrared spectroscopy   10             0           7              4  1.0    3   2   73.205081          1.626418
+federated learning                        14             0          14              4  1.0    5   3   70.997595          1.577374
+pesticides                                18             0          13              6  1.0    5   3   70.997595          1.577374
+recipe data                               13             0          10              4  1.0    5   3   70.997595          1.577374
+crop yield                                10             0          10              4  1.0    5   3   70.997595          1.577374
+yolov8                                     9             0           9              3  1.0    5   3   70.997595          1.577374
+lipid                                     10             0           8              4  1.0    5   3   70.997595          1.577374
+food spoilage                             31             0          26              6  1.0   14   5    69.52182          1.544586
+food adulteration detection               13             0          12              5  1.0    8   4   68.179283          1.514759
+smart agriculture                         26             0          22              6  1.0   13   5   67.027765          1.489175
+food sector                               54             0          47              8  1.0   21   6   66.100096          1.468565
+eating habits                             42             4          28             10  1.0   12   5   64.375183          1.430242
+nearest neighbor search                   29             0          23              8  1.0   12   5   64.375183          1.430242
+residual neural network                   29             0          23              7  1.0   12   5   64.375183          1.430242
+food processing                          106             5          78             10  1.0   31   7   63.324625          1.406901
+process control                           16             0          15              4  1.0    7   4   62.657656          1.392083
+adaptive boosting                         15             0          12              6  1.0    7   4   62.657656          1.392083
+extreme gradient boosting                 34             0          31              7  1.0   18   6   61.887041          1.374962
+personalized nutrition                    56             0          52              7  1.0   29   7   61.775965          1.372494
+internet of things                       133             3          90             10  1.0   45   8   60.935393          1.353819
+food supply chain                        252             6         189             10  2.0   81   8   58.829759          1.307038
+food flavor                               12             0          12              4  1.0    4   3   58.740105          1.305046
+light gradient boosting machine            9             0           9              4  1.0    4   3   58.740105          1.305046
+hyperspectral images                      11             0           7              5  1.0    4   3   58.740105          1.305046
+dietary analysis                           7             0           7              3  1.0    4   3   58.740105          1.305046
+ensemble models                            9             0           5              5  1.0    4   3   58.740105          1.305046
+machine learning                         671            13         498             11  2.0  201  10   58.568386          1.301231
+functional food                           22             0          19              4  1.0   10   5   58.489319          1.299474
+short-term memory                         11             0          11              3  2.0    5   2   58.113883          1.291133
+learning systems                         298             9         250             11  2.0  121   9   57.751254          1.283076
+food quality and safety                   67             7          52             11  1.0   24   7   57.461011          1.276628
+climate change                            52             0          40              7  1.0   15   6    57.04178          1.267313
+nutritional analysis                      27             0          25              6  1.0   15   6    57.04178          1.267313
+chemistry                                 25             2          14              8  1.0    6   4   56.508458          1.255465
+healthy lifestyle                         25             2          13              9  1.0    6   4   56.508458          1.255465
+pharmaceutic                              14             0          13              4  1.0    6   4   56.508458          1.255465
+model interpretability                    12             0          11              4  1.0    6   4   56.508458          1.255465
+blockchain                                88             1          70              9  1.0   35   8   55.958305          1.243242
+real time monitoring                      43             0          38              7  1.0   22   7   55.515854          1.233412
+food fraud                                27             0          21              7  1.0    9   5   55.184557          1.226051
+supervised machine learning               25             0          18              7  1.0    9   5   55.184557          1.226051
+attention mechanisms                      20             0          17              6  1.0    9   5   55.184557          1.226051
+gradient boosting                         16             0          14              6  1.0    9   5   55.184557          1.226051
+machine learning models                   97             1          81              9  1.0   33   8    54.81543           1.21785
+food traceability                         93             1          78              9  1.0   33   8    54.81543           1.21785
+food waste                               148             2         122             10  1.0   48   9   53.746268          1.194096
+sustainable development goals             32             0          27              7  1.0   13   6   53.340624          1.185084
+multi-modal                               29             0          23              8  1.0   13   6   53.340624          1.185084
+data science                              33             0          17              7  3.0    7   2   52.752523          1.172018
+food security                            114             3          89              9  1.0   43   9   51.878568          1.152601
+object detection                          31             0          23              7  1.0    8   5   51.571657          1.145782
+food delivery                             31             0          21              7  1.0    8   5   51.571657          1.145782
+nutritional science                       21             0          15              6  1.0    8   5   51.571657          1.145782
+chatbot                                   16             0          11              5  1.0    8   5   51.571657          1.145782
+artificial intelligence                  560            14         440             11  3.0  191  10   51.492527          1.144024
+

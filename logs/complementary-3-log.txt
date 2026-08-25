@@ -1,0 +1,451 @@
+FOOD ANALYTICS SCOPUS SEARCH LOG — COMPLEMENTARY-3
+===================================================
+
+Total rows: 9
+
+ROW 1 | Iteration 1 | COMPLEMENTARY-3
+---------------------------------------
+Iteration:
+  1
+
+Search component:
+  COMPLEMENTARY-3
+
+Candidate term or query modification:
+  Domain gap analysis: assistant mapped 17 food analytics sub-domains against all four named
+  strings (STRICT, CLAUDE/MAIN-3, GEMINI/MAIN-2, CHATGPT/MAIN-1) and identified 7 confirmed
+  blind spots across all four: IoT-connected food systems; blockchain food traceability
+  analytics; social media consumer analytics for food; food waste analytics; food
+  recommendation systems; food label/NLP analytics; agri-food data platforms.
+
+Source/evidence in this conversation:
+  Proposed by assistant through knowledge-driven domain gap analysis. User requested: "you
+  must analyze the search strings (CLAUDE, GEMINI, CHATGPT, STRICT) and determine if
+  something is missing. The task aims to generate a complementary search string capturing
+  missing documents not captured by the 4 search strings."
+
+Decision:
+  Modified
+
+Rationale for the decision:
+  User confirmed goal of maximum recall. Gap analysis confirmed structural blind spots.
+  However, assistant later acknowledged that GEMINI and CHATGPT proximity blocks were not
+  consulted in initial design; user explicitly challenged this after DARWIN-v3, causing
+  full redesign.
+
+Retrieval count before:
+  Not documented
+
+Retrieval count after:
+  Not documented
+
+Change in retrieval count:
+  Not documented
+
+Evidence of validation against retrieved documents:
+  None documented.
+
+Notes:
+  This iteration established the conceptual basis for the complementary string. No query
+  was executed at this stage.
+
+
+ROW 2 | Iteration 2 | COMPLEMENTARY-3
+---------------------------------------
+Iteration:
+  2
+
+Search component:
+  COMPLEMENTARY-3
+
+Candidate term or query modification:
+  v1 phrase strategy (28 exact phrases): "food recommendation system"; "food recommendation
+  systems"; "food recommender system"; "food recommender systems"; "food demand forecasting";
+  "food price forecasting"; "food price prediction"; "food waste analytics"; "food waste
+  data analytics"; "food fraud analytics"; "food authentication analytics"; "food label
+  analytics"; "food labelling analytics"; "food label analysis"; "social media food
+  analytics"; "food social media analytics"; "food consumer analytics"; "food consumer
+  behaviour analytics"; "food consumer behavior analytics"; "food manufacturing analytics";
+  "food production analytics"; "food processing analytics"; "food e-commerce analytics";
+  "online food analytics"; "food data platform"; "food data ecosystem"; "agri-food data
+  platform"; "agrifood data platform". Plus intersection blocks for IoT, blockchain, and
+  social media crossed with food analytics terms.
+
+Source/evidence in this conversation:
+  Proposed by assistant as first complementary string draft targeting the 7 confirmed blind
+  spots using exact phrase matching.
+
+Decision:
+  Modified
+
+Rationale for the decision:
+  Complete failure of phrase strategy. All 28 phrase terms returned zero hits. Only 2 records
+  retrieved by intersection logic blocks. Diagnosis: gap sub-domains use no stable compound
+  phrases as author keywords or in abstracts.
+
+Retrieval count before:
+  Not documented
+
+Retrieval count after:
+  2
+
+Change in retrieval count:
+  Not documented (first execution of complementary string)
+
+Evidence of validation against retrieved documents:
+  User uploaded scopus.csv (2 records). Assistant diagnosed: all 28 phrase terms zero hits;
+  2 records from intersection logic only; both records were food informatics review papers
+  using "Internet of Food" and "Internet of Things" terminology. Assistant stated: "DARWIN
+  must be rebuilt as a pure intersection string."
+
+Notes:
+  The 2 records confirmed the gap is real but phrase retrieval strategy is wrong for this
+  literature. Named DARWIN during the conversation.
+
+
+ROW 3 | Iteration 3 | COMPLEMENTARY-3
+---------------------------------------
+Iteration:
+  3
+
+Search component:
+  COMPLEMENTARY-3
+
+Candidate term or query modification:
+  v2 pure AND intersection: Pole A (16 food sub-domain terms: "food waste"; "food fraud";
+  "food authentication"; "food labelling"; "food label"; "food demand"; "food price";
+  "food manufacturing"; "food consumer"; "food market"; "food traceability"; "food
+  recommendation"; "agri-food"; "agrifood"; plus "food production" and "food processing"
+  initially included) AND Pole B (16 analytics technology terms: "data analytics"; "data
+  science"; "big data analytics"; "machine learning"; "deep learning"; "artificial
+  intelligence"; "predictive analytics"; "data mining"; "natural language processing";
+  "text mining"; "blockchain analytics"; "internet of things"; "social media analytics";
+  "sentiment analysis"; "recommender system"; "recommendation system").
+
+Source/evidence in this conversation:
+  Proposed by assistant after diagnosing v1 failure. Assistant stated: "Gap literature
+  uses no stable compound phrases as keywords or in abstracts. AND intersection is the only
+  viable retrieval strategy."
+
+Decision:
+  Modified
+
+Rationale for the decision:
+  "food production" (2,836 hits) and "food processing" (1,307 hits) confirmed as dominant
+  noise drivers (agricultural robotics, spectroscopy). Per-term noise audit: "food waste"
+  ~95% noise (biogas engineering); "food fraud" ~60% noise (spectroscopy); "food
+  authentication" ~90% noise (spectroscopy); "food demand" ~85% noise (agricultural
+  economics); "food recommendation" (~416 hits, clean); "food consumer" (~27 hits, clean);
+  "food labelling" (~7 hits, clean); "food label" (~97 hits, ~60% valid).
+
+Retrieval count before:
+  2
+
+Retrieval count after:
+  7,952
+
+Change in retrieval count:
+  +7,950
+
+Evidence of validation against retrieved documents:
+  User uploaded scopus.csv (7,952 records; same file uploaded twice, second upload also
+  confirmed as 7,952). Per-term and per-combination noise audit conducted from CSV. 779
+  records estimated unique to complementary string vs MAIN-3.
+
+Notes:
+  The same file (7,952 records) was uploaded twice across consecutive turns.
+
+
+ROW 4 | Iteration 4 | COMPLEMENTARY-3
+---------------------------------------
+Iteration:
+  4
+
+Search component:
+  COMPLEMENTARY-3
+
+Candidate term or query modification:
+  v3 Pole A reduction: Pole A reduced to 5 terms only ("food recommendation"; "food
+  consumer"; "food labelling"; "food label"; "food manufacturing"). Dropped 11 Pole A terms
+  with noise greater than 60%: "food waste"; "food production"; "food processing"; "food
+  fraud"; "food authentication"; "food demand"; "food price"; "food market"; "food
+  traceability"; "agri-food"; "agrifood". Pole B unchanged (15 analytics technology terms;
+  "blockchain analytics" replaced by "blockchain" in Pole B).
+
+Source/evidence in this conversation:
+  Proposed by assistant based on per-term noise audit of v2 corpus. Noise threshold for
+  drops set at greater than 60%.
+
+Decision:
+  Included (executed)
+
+Rationale for the decision:
+  Dropped terms confirmed as spectroscopy/biosensor detection, bioengineering, or
+  agricultural economics (noise greater than 60%). Kept terms had genuine food analytics
+  signal: "food recommendation" (~416 hits, recommender systems ML); "food manufacturing"
+  (~228 hits, IoT/Industry 4.0); "food label" (~97 hits, NLP); "food consumer" (~27 hits,
+  behaviour analytics); "food labelling" (~7 hits, NLP).
+
+Retrieval count before:
+  7,952
+
+Retrieval count after:
+  789
+
+Change in retrieval count:
+  -7,163
+
+Evidence of validation against retrieved documents:
+  User uploaded scopus.csv (789 records). 779 records unique to complementary string vs
+  MAIN-3 (97% non-overlap). Corpus dominated by food recommender systems and food
+  manufacturing × IoT/AI. Assistant declared stopping criterion met.
+
+Notes:
+  User then asked: "do you consider GEMINI, CHATGPT and CLAUDE in the design?" Assistant
+  confirmed it had not consulted the other strings. Full redesign initiated.
+
+
+ROW 5 | Iteration 5 | COMPLEMENTARY-3
+---------------------------------------
+Iteration:
+  5
+
+Search component:
+  COMPLEMENTARY-3
+
+Candidate term or query modification:
+  Redesign after GEMINI/CHATGPT/CLAUDE gap analysis: Part 1 (6 food recommender exact
+  phrases: "food recommender"; "food recommender system"; "food recommender systems";
+  "dietary recommendation"; "food recommendation system"; "food recommendation systems")
+  plus Part 2 (food/agri-food/agrifood/diet/recipe AND NLP methods [NLP; text mining;
+  sentiment analysis; knowledge graph; LLM; LLMs; generative AI; social media analytics])
+  plus Part 3 (food/agri-food/agrifood AND blockchain/internet of things). No Pole C
+  anchor in this version.
+
+Source/evidence in this conversation:
+  Proposed by assistant after systematic term-by-term gap analysis of all 4 strings.
+  Assistant stated: "GEMINI Pole B covers ML, DL, AI, computer vision, data mining — but
+  completely omits the language AI and graph methods." CHATGPT Pole B "only has analytics-
+  named terms, not methods." "Both proximity blocks (GEMINI and CHATGPT) omit blockchain
+  and IoT from their method poles entirely."
+
+Decision:
+  Included (executed)
+
+Rationale for the decision:
+  Parts 2 and 3 target methods missing from all four proximity blocks: NLP, text mining,
+  sentiment analysis, knowledge graph, LLM, generative AI, social media analytics,
+  blockchain, IoT.
+
+Retrieval count before:
+  789
+
+Retrieval count after:
+  19,270
+
+Change in retrieval count:
+  +18,481
+
+Evidence of validation against retrieved documents:
+  User reported 19,270 records (no CSV uploaded). Assistant diagnosed noise drivers:
+  "dietary recommendations" (plural) pulling clinical nutrition guidelines; "food AND
+  natural language processing" estimated ~3,000-5,000 records; two-pole intersection too
+  broad without domain anchor.
+
+Notes:
+  No CSV was uploaded for this iteration. Count reported by user only.
+
+
+ROW 6 | Iteration 6 | COMPLEMENTARY-3
+---------------------------------------
+Iteration:
+  6
+
+Search component:
+  COMPLEMENTARY-3
+
+Candidate term or query modification:
+  Added Pole C single-word anchor terms: "analytics"; "informatics"; "data science"; "data
+  analytics"; "intelligence"; "traceability". Dropped "dietary recommendations" (plural;
+  clinical nutrition guidelines). Moved "recommender system" and "recommendation system"
+  out of Pole B intersection.
+
+Source/evidence in this conversation:
+  Proposed by assistant to constrain intersection noise. Pole C intended to require
+  explicit analytics framing in the document.
+
+Decision:
+  Modified
+
+Rationale for the decision:
+  Triple AND requires record to mention food domain, technology method, AND analytics
+  vocabulary. However, "intelligence" fires on "artificial intelligence" everywhere;
+  "analytics" alone too common in technology abstracts; "food supply chain" and "food
+  traceability" in Pole C are generic subject terms not domain anchors.
+
+Retrieval count before:
+  19,270
+
+Retrieval count after:
+  12,753
+
+Change in retrieval count:
+  -6,517
+
+Evidence of validation against retrieved documents:
+  User reported 12,753 records (no CSV uploaded). Assistant diagnosed: "intelligence" fires
+  on "artificial intelligence" in every ML/AI paper; "analytics" too common; "food supply
+  chain" (~15,000 Scopus records) and "food traceability" (~5,000 Scopus records) are
+  generic subject terms.
+
+Notes:
+  No CSV was uploaded for this iteration. Count reported by user only. Single-word anchor
+  insufficient as domain identifier.
+
+
+ROW 7 | Iteration 7 | COMPLEMENTARY-3
+---------------------------------------
+Iteration:
+  7
+
+Search component:
+  COMPLEMENTARY-3
+
+Candidate term or query modification:
+  Pole C replaced with 9 food-compound phrases: "food analytics"; "food informatics"; "food
+  intelligence"; "food data science"; "food data analytics"; "agri-food analytics";
+  "agrifood analytics"; "food traceability"; "food supply chain". "Dietary recommendation"
+  (singular) also dropped from Part 1.
+
+Source/evidence in this conversation:
+  Proposed by assistant. Assistant stated: "a paper about food that uses NLP and explicitly
+  mentions 'food analytics', 'food informatics', or 'food supply chain' is unambiguously
+  in the domain."
+
+Decision:
+  Modified
+
+Rationale for the decision:
+  "food supply chain" (~15,000 Scopus records) and "food traceability" (~5,000 Scopus
+  records) confirmed as generic subject terms not analytics-identity phrases. "food
+  intelligence" ambiguous (fires on market intelligence and military contexts). Partial
+  improvement but Pole C still too broad.
+
+Retrieval count before:
+  12,753
+
+Retrieval count after:
+  9,168
+
+Change in retrieval count:
+  -3,585
+
+Evidence of validation against retrieved documents:
+  User reported 9,168 records (no CSV uploaded). Assistant diagnosed that "food supply
+  chain" and "food traceability" in Pole C cause continued noise despite being compound
+  phrases.
+
+Notes:
+  No CSV was uploaded for this iteration. Count reported by user only.
+
+
+ROW 8 | Iteration 8 | COMPLEMENTARY-3
+---------------------------------------
+Iteration:
+  8
+
+Search component:
+  COMPLEMENTARY-3
+
+Candidate term or query modification:
+  Pole C reduced to 6 pure analytics-identity phrases only: "food analytics"; "food
+  informatics"; "food data science"; "food data analytics"; "agri-food analytics";
+  "agrifood analytics". Dropped from Pole C: "food supply chain"; "food traceability";
+  "food intelligence". "Dietary recommendation" absent from Part 1 (dropped in prior
+  iteration). Final Part 1: 5 phrases ("food recommender"; "food recommender system"; "food
+  recommender systems"; "food recommendation system"; "food recommendation systems").
+
+Source/evidence in this conversation:
+  Proposed by assistant. Assistant stated: "Pole C must contain only the six pure analytics-
+  identity phrases — terms that only appear in papers that explicitly self-identify as food
+  analytics research."
+
+Decision:
+  Included (executed)
+
+Rationale for the decision:
+  Pure analytics-identity Pole C: 6 phrases exclusively identify food analytics papers.
+  "food supply chain" (~15,000 records) and "food traceability" (~5,000 records) confirmed
+  as generic subject terms. Only compound food+analytics phrases in Pole C ensure the paper
+  is analytically oriented.
+
+Retrieval count before:
+  9,168
+
+Retrieval count after:
+  320
+
+Change in retrieval count:
+  -8,848
+
+Evidence of validation against retrieved documents:
+  User uploaded scopus.csv (320 records). Per-block breakdown confirmed: Part 1 (food
+  recommender phrases) drove 312 records; Parts 2 and 3 (intersection blocks) contributed
+  only 8 records total. 311 records unique to complementary string vs MAIN-3 (97%
+  non-overlap). Top author keywords confirmed corpus as food recommender systems literature:
+  "food recommendation" (39); "recommender systems" (33); "machine learning" (32);
+  "collaborative filtering" (30); "food recommendation system" (30). Assistant confirmed
+  stopping criterion met.
+
+Notes:
+  Parts 2 and 3 retained for structural completeness despite minimal recall contribution
+  (8 records). Genuine sub-domain captured: food recommender systems (collaborative
+  filtering, content-based filtering, ML-based personalised nutrition). Assistant stated:
+  "DARWIN is confirmed and final."
+
+
+ROW 9 | Iteration 9 | COMPLEMENTARY-3 (FINAL)
+-----------------------------------------------
+Iteration:
+  9
+
+Search component:
+  COMPLEMENTARY-3
+
+Candidate term or query modification:
+  Final stable complementary search string designated COMPLEMENTARY-3.
+
+Source/evidence in this conversation:
+  User nomenclature instruction: strings from Claude are numbered 3 (MAIN-3 and
+  COMPLEMENTARY-3). String was referred to as DARWIN during the conversation.
+
+Decision:
+  Included — designated FINAL
+
+Rationale for the decision:
+  String converged at 320 records after 8 development iterations. Stopping criterion met:
+  two consecutive Scopus executions (789-record version and 320-record version) produced
+  zero new candidate terms belonging to the food analytics domain. 97% non-overlap with
+  MAIN-3 confirms complementary coverage. Genuine gap captured: food recommender systems
+  not covered by any of the four named strings.
+
+Retrieval count before:
+  320
+
+Retrieval count after:
+  320
+
+Change in retrieval count:
+  0
+
+Evidence of validation against retrieved documents:
+  Final 320-record corpus analysed from uploaded CSV. Corpus confirmed as coherent food
+  recommender systems literature. Zero new domain-relevant terms identified from corpus
+  mining.
+
+Notes:
+  String named DARWIN during the conversation; renamed COMPLEMENTARY-3 per user nomenclature
+  instruction. The key finding across all iterations: the only genuine gap in the four-string
+  portfolio is the food recommender system literature. Parts 2 and 3 of the string (food ×
+  NLP/LLM methods × analytics anchor; food × blockchain/IoT × analytics anchor) contributed
+  8 records and are retained for structural completeness.

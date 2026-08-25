@@ -1,0 +1,349 @@
+FOOD ANALYTICS SCOPUS SEARCH LOG — MAIN-2
+=========================================
+
+Total rows: 8
+
+ROW 1 | Iteration 1 | MAIN-2
+----------------------------
+Iteration:
+  1
+
+Search component:
+  MAIN-2
+
+Candidate term or query modification:
+  Initial strict term-oriented query: TITLE-ABS-KEY ( "food analytics" OR "food data
+  analytics" OR "food informatics" OR "food data science" OR "agri-food analytics" OR
+  "agrifood analytics" OR "agri-food data analytics" OR "agrifood data analytics" OR
+  "agri-food informatics" OR "agrifood informatics" ).
+
+Source/evidence in this conversation:
+  User provided this initial search string at conversation start with the file scopus.csv.
+
+Decision:
+  Included
+
+Rationale for the decision:
+  Baseline seed query used to initiate the iterative refinement process for a literature
+  review on food analytics.
+
+Retrieval count before:
+  Not documented
+
+Retrieval count after:
+  58
+
+Change in retrieval count:
+  Not documented
+
+Evidence of validation against retrieved documents:
+  Examination of the 58 records in scopus.csv revealed presence of "food informatics" (15),
+  "food analytics" (6), "food computing" (3), "machine learning" (9), "big data" (5), and
+  several traditional analytical chemistry / food analysis methods.
+
+Notes:
+  This was the baseline seed query for MAIN-2.
+
+
+ROW 2 | Iteration 2 | MAIN-2
+----------------------------
+Iteration:
+  2
+
+Search component:
+  MAIN-2
+
+Candidate term or query modification:
+  Multiple candidate expansion options containing wildcards inside quotation marks (e.g.,
+  "food analytic*", "food informatic*", agri*food).
+
+Source/evidence in this conversation:
+  Proposed during this conversation based on vocabulary extracted from the 58 baseline
+  records.
+
+Decision:
+  Rejected
+
+Rationale for the decision:
+  User rejected the syntax because wildcards ("*") inside quotation marks are treated as
+  literal characters in Scopus rather than truncation operators. User also mandated: "you
+  must decide internally and present only one improved search string".
+
+Retrieval count before:
+  58
+
+Retrieval count after:
+  Not documented
+
+Change in retrieval count:
+  Not documented
+
+Evidence of validation against retrieved documents:
+  Not executed due to database syntax restriction.
+
+Notes:
+  Led to the correction of wildcard placement outside quotes and consolidation into a single
+  string.
+
+
+ROW 3 | Iteration 3 | MAIN-2
+----------------------------
+Iteration:
+  3
+
+Search component:
+  MAIN-2
+
+Candidate term or query modification:
+  Proximity-based query with unquoted wildcards: TITLE-ABS-KEY ( (food W/2 analytic*) OR
+  (food W/2 informatic*) OR foodinformatics* OR "food data science" OR "food computing" OR
+  "internet of food" OR "food intelligence" OR foodomic* OR (agri*food W/2 analytic*) OR
+  (agri*food W/2 informatic*) OR (agri*food W/2 data science) ).
+
+Source/evidence in this conversation:
+  Proposed during this conversation consolidating valid wildcard syntax with paradigms
+  extracted from baseline records (food computing, internet of food, food intelligence,
+  foodomics, foodinformatics).
+
+Decision:
+  Modified
+
+Rationale for the decision:
+  The query resulted in severe precision drop because the unquoted truncation analytic*
+  matched "food analysis" and "analytical methods", dragging in traditional wet-lab chemical
+  assays.
+
+Retrieval count before:
+  58
+
+Retrieval count after:
+  2,634
+
+Change in retrieval count:
+  +2,576
+
+Evidence of validation against retrieved documents:
+  User reported 2,634 records and provided scopus_2.csv. Analysis showed heavy presence of
+  pure analytical chemistry terms: food analysis (611), mass spectrometry (415),
+  metabolomics (382), HPLC (184), and chromatography assays.
+
+Notes:
+  Demonstrated the necessity of separating "analytics" from "analysis".
+
+
+ROW 4 | Iteration 4 | MAIN-2
+----------------------------
+Iteration:
+  4
+
+Search component:
+  MAIN-2
+
+Candidate term or query modification:
+  Locked exact-phrase formulation: TITLE-ABS-KEY ( "food analytics" OR "food data analytics"
+  OR "food informatics" OR "food data science" OR "food computing" OR "internet of food" OR
+  "food intelligence" OR foodinformatics OR "agri-food analytics" OR "agrifood analytics" OR
+  "agri-food data analytics" OR "agrifood data analytics" OR "agri-food informatics" OR
+  "agrifood informatics" ).
+
+Source/evidence in this conversation:
+  Proposed during this conversation to eliminate wet-lab chemistry noise by removing unquoted
+  analytic* while preserving identified computational paradigms.
+
+Decision:
+  Modified
+
+Rationale for the decision:
+  User executed the query but evaluated it as overly restrictive ("I think your search string
+  is too restrictive").
+
+Retrieval count before:
+  2,634
+
+Retrieval count after:
+  244
+
+Change in retrieval count:
+  -2,390
+
+Evidence of validation against retrieved documents:
+  User reported 244 records and provided scopus_3.csv / scopus_4.csv. Keywords confirmed high
+  precision in computing (food computing 92, deep learning 21, machine learning 17), but
+  omitted broader data science applications to food lacking exact compound phrases.
+
+Notes:
+  User prompted expansion beyond exact compound phrases.
+
+
+ROW 5 | Iteration 5 | MAIN-2
+----------------------------
+Iteration:
+  5
+
+Search component:
+  MAIN-2
+
+Candidate term or query modification:
+  Broad Boolean intersection across TITLE-ABS-KEY: (food OR agrifood OR "agri-food" OR "food
+  supply" OR "food system*") AND ("data analytics" OR "data science" OR informatic* OR
+  computing OR "machine learning" OR "deep learning" OR "artificial intelligence" OR "big
+  data" OR "predictive model*" OR "computer vision" OR "neural network*" OR "predictive
+  analytics" OR "data mining" OR chemometrics OR "large language model*").
+
+Source/evidence in this conversation:
+  Proposed during this conversation to expand recall across the general data-science/AI
+  domain.
+
+Decision:
+  Modified
+
+Rationale for the decision:
+  Searching broad generic terms across the abstract field (ABS) caused an explosion in
+  retrieval volume due to incidental keyword co-occurrences in backgrounds.
+
+Retrieval count before:
+  244
+
+Retrieval count after:
+  >64,000
+
+Change in retrieval count:
+  >+63,756
+
+Evidence of validation against retrieved documents:
+  User reported >64,000 records and provided scopus_5.csv / scopus_6.csv (top 1,000 records).
+  Text mining revealed peripheral noise (e.g., gig economy food delivery riders, satellite
+  wheat yield prediction, leaf disease detection).
+
+Notes:
+  Demonstrated that unconstrained Boolean intersection across abstracts is non-viable.
+
+
+ROW 6 | Iteration 6 | MAIN-2
+----------------------------
+Iteration:
+  6
+
+Search component:
+  MAIN-2
+
+Candidate term or query modification:
+  Attempted field-restricted search using TITLE-KEY, which was rejected by Scopus, then
+  corrected to native Scopus field blocks: (TITLE(food OR ...) OR KEY(food OR ...)) AND
+  (TITLE("data analytics" OR ...) OR KEY("data analytics" OR ...)).
+
+Source/evidence in this conversation:
+  Proposed during this conversation to suppress abstract noise; user rejected initial draft
+  ("Invalid field name: TITLE-KEY"), prompting corrected native TITLE/KEY syntax.
+
+Decision:
+  Modified
+
+Rationale for the decision:
+  While removing the abstract field (ABS) reduced volume, loose Boolean AND across keywords
+  still retrieved thousands of unlinked agricultural and processing studies.
+
+Retrieval count before:
+  >64,000
+
+Retrieval count after:
+  >24,000
+
+Change in retrieval count:
+  <-40,000
+
+Evidence of validation against retrieved documents:
+  User reported >24,000 records and provided scopus_7.csv (top 1,000 records). Analysis
+  confirmed that food and machine learning were present in the record metadata but often as
+  unconnected index keywords.
+
+Notes:
+  Required adding proximity constraints to bind concepts together.
+
+
+ROW 7 | Iteration 7 | MAIN-2
+----------------------------
+Iteration:
+  7
+
+Search component:
+  MAIN-2
+
+Candidate term or query modification:
+  Proximity-anchored hybrid formulation: TITLE-ABS-KEY ("food analytics" OR "food data
+  analytics" OR "food informatics" OR "food data science" OR "food computing" OR "internet of
+  food" OR "food intelligence" OR foodinformatics OR "agri-food informatics" OR "agrifood
+  informatics") OR TITLE ((food OR agrifood OR "agri-food" OR diet OR recipe) W/3 ("data
+  analytics" OR "data science" OR informatic* OR computing OR "machine learning" OR "deep
+  learning" OR "artificial intelligence" OR "computer vision" OR "predictive analytics" OR
+  "data mining" OR "neural network*")) OR KEY ((food OR agrifood OR "agri-food" OR diet OR
+  recipe) W/2 ("data analytics" OR "data science" OR informatic* OR computing OR "machine
+  learning" OR "deep learning" OR "artificial intelligence" OR "computer vision" OR
+  "predictive analytics" OR "data mining" OR "neural network*")).
+
+Source/evidence in this conversation:
+  Proposed during this conversation to enforce semantic proximity (W/3 in Title, W/2 in
+  Keywords) while retaining explicit phrases in TITLE-ABS-KEY.
+
+Decision:
+  Included
+
+Rationale for the decision:
+  Achieved optimal convergence between high precision and expanded recall, eliminating
+  unconnected agricultural/logistical noise.
+
+Retrieval count before:
+  >24,000
+
+Retrieval count after:
+  1,563
+
+Change in retrieval count:
+  <-22,437
+
+Evidence of validation against retrieved documents:
+  User reported 1,563 records and provided scopus_8.csv (1,557 records). Keyword analysis
+  confirmed high density of core data science in food: machine learning 350; deep learning
+  234; artificial intelligence 216; food computing 92; computer vision 80; food recognition
+  73.
+
+Notes:
+  This formulation was confirmed and established as MAIN-2.
+
+
+ROW 8 | Iteration 8 | MAIN-2
+----------------------------
+Iteration:
+  8
+
+Search component:
+  MAIN-2
+
+Candidate term or query modification:
+  Final primary search string named MAIN-2.
+
+Source/evidence in this conversation:
+  User confirmed this search string and instructed that it be named MAIN-2.
+
+Decision:
+  Included
+
+Rationale for the decision:
+  The query converged at 1,563 high-precision records and was adopted as the primary search
+  strategy.
+
+Retrieval count before:
+  1,563
+
+Retrieval count after:
+  1,563
+
+Change in retrieval count:
+  0
+
+Evidence of validation against retrieved documents:
+  Empirical verification of the 1,563-record dataset confirmed alignment with data-driven
+  food analytics.
+
+Notes:
+  MAIN-2 is the finalized primary search strategy developed in this conversation.

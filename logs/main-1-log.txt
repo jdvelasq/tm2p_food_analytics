@@ -1,0 +1,331 @@
+FOOD ANALYTICS SCOPUS SEARCH LOG — MAIN-1
+=========================================
+
+Total rows: 8
+
+ROW 1 | Iteration 1 | MAIN-1
+----------------------------
+Iteration:
+  1
+
+Search component:
+  MAIN-1
+
+Candidate term or query modification:
+  Initial strict term-oriented query using "food analytics" and close synonyms: "food data
+  analytics"; "food informatics"; "food data science"; "agri-food analytics"; "agrifood
+  analytics"; "agri-food data analytics"; "agrifood data analytics"; "agri-food
+  informatics"; "agrifood informatics".
+
+Source/evidence in this conversation:
+  Proposed during this conversation after the user requested papers containing "food
+  analytics" or synonyms. User stated: "I prefer the stricter version."
+
+Decision:
+  Included
+
+Rationale for the decision:
+  The query was designed to retrieve papers explicitly using the term or close synonyms,
+  before developing a broader literature-review strategy.
+
+Retrieval count before:
+  Not documented
+
+Retrieval count after:
+  58
+
+Change in retrieval count:
+  Not documented
+
+Evidence of validation against retrieved documents:
+  The uploaded Scopus records were examined. The assistant reported approximate presence of
+  "food informatics" in 29 records, "food analytics" in 26, "food data analytics" in 1, and
+  "agri-food informatics" in 1.
+
+Notes:
+  This was the seed query for MAIN-1.
+
+
+ROW 2 | Iteration 2 | MAIN-1
+----------------------------
+Iteration:
+  2
+
+Search component:
+  MAIN-1
+
+Candidate term or query modification:
+  Proposed addition of "food informatic"; "food analytic"; "food computing"; "food
+  intelligence"; and "food and health analytics".
+
+Source/evidence in this conversation:
+  Identified from examination of retrieved titles/abstracts/keywords from the 58-record seed
+  set, according to the assistant’s report.
+
+Decision:
+  Modified
+
+Rationale for the decision:
+  The user clarified that the goal was not another stricter version, but expansion for a
+  literature review of food analytics.
+
+Retrieval count before:
+  58
+
+Retrieval count after:
+  Not documented
+
+Change in retrieval count:
+  Not documented
+
+Evidence of validation against retrieved documents:
+  The assistant stated that these variants appeared in the retrieved records, but the
+  modified strict query was not documented as executed.
+
+Notes:
+  Terms later informed broader expansion, but this exact strict revision was not adopted as
+  final.
+
+
+ROW 3 | Iteration 3 | MAIN-1
+----------------------------
+Iteration:
+  3
+
+Search component:
+  MAIN-1
+
+Candidate term or query modification:
+  Broad conceptual expansion combining food-domain terms with analytics/data/AI terms,
+  including "machine learning"; "artificial intelligence"; "deep learning"; "data mining";
+  sensors; "computer vision"; "image processing"; and related methods.
+
+Source/evidence in this conversation:
+  Proposed during this conversation after the user stated that the review required expansion
+  beyond exact terms.
+
+Decision:
+  Modified
+
+Rationale for the decision:
+  The query retrieved too many documents and introduced excessive noise from generic
+  AI/ML/sensor applications in food, nutrition, agriculture, and related areas.
+
+Retrieval count before:
+  58
+
+Retrieval count after:
+  >106,000
+
+Change in retrieval count:
+  >105,942
+
+Evidence of validation against retrieved documents:
+  User reported that Scopus returned >106000 records and uploaded the newest 1,000.
+  Assistant reported dominant terms in the newest 1,000: machine learning 342; sensors 239;
+  food safety 211; data mining 195; artificial intelligence 185; nutrition 181; diet 151;
+  deep learning 143.
+
+Notes:
+  This expansion was rejected as too broad.
+
+
+ROW 4 | Iteration 4 | MAIN-1
+----------------------------
+Iteration:
+  4
+
+Search component:
+  MAIN-1
+
+Candidate term or query modification:
+  Replace loose Boolean combinations with proximity logic: food-domain terms W/3
+  analytics/informatics/data-science/big-data terms. Included exact terms such as "food
+  analytics"; "food computing"; "food intelligence"; "internet of food"; and "nutrition
+  informatics".
+
+Source/evidence in this conversation:
+  Proposed during this conversation after the >106,000-record retrieval.
+
+Decision:
+  Modified
+
+Rationale for the decision:
+  The proximity structure was intended to reduce noise by requiring food-domain terms to
+  appear near analytics/informatics/data-science terms.
+
+Retrieval count before:
+  >106,000
+
+Retrieval count after:
+  1,592
+
+Change in retrieval count:
+  Decrease of more than 104,408
+
+Evidence of validation against retrieved documents:
+  User reported 1,592 records. Assistant reported dominant terms: artificial intelligence
+  691; food safety 350; machine learning 344; big data 280; food computing 142; food
+  informatics 29; food analytics 26; nutrition informatics 48.
+
+Notes:
+  The result was much smaller but still inflated by generic artificial-intelligence-in-food
+  records.
+
+
+ROW 5 | Iteration 5 | MAIN-1
+----------------------------
+Iteration:
+  5
+
+Search component:
+  MAIN-1
+
+Candidate term or query modification:
+  Remove intelligence and computing from the proximity block, while retaining exact phrases
+  such as "food intelligence" and "food computing".
+
+Source/evidence in this conversation:
+  Proposed during this conversation after analysis of the 1,592-record export.
+
+Decision:
+  Included, then refined
+
+Rationale for the decision:
+  The assistant identified food W/3 intelligence as a source of noise because it captured
+  generic "artificial intelligence in food" records.
+
+Retrieval count before:
+  1,592
+
+Retrieval count after:
+  810
+
+Change in retrieval count:
+  -782
+
+Evidence of validation against retrieved documents:
+  User reported 810 records. Assistant stated that one remaining source of avoidable noise
+  was analytic and foods inside the proximity block.
+
+Notes:
+  Precision-improving step.
+
+
+ROW 6 | Iteration 6 | MAIN-1
+----------------------------
+Iteration:
+  6
+
+Search component:
+  MAIN-1
+
+Candidate term or query modification:
+  Remove "food analytic"; analytic; and foods.
+
+Source/evidence in this conversation:
+  Proposed during this conversation after the 810-record version.
+
+Decision:
+  Included
+
+Rationale for the decision:
+  The assistant stated that analytic could behave too close to analysis, and foods could
+  retrieve papers about functional foods, food analysis, or foods as objects rather than
+  food analytics.
+
+Retrieval count before:
+  810
+
+Retrieval count after:
+  702
+
+Change in retrieval count:
+  -108
+
+Evidence of validation against retrieved documents:
+  User reported 702 records. Assistant judged the query acceptable and centred on food
+  analytics/informatics/data science.
+
+Notes:
+  This became the stable MAIN-1 candidate.
+
+
+ROW 7 | Iteration 7 | MAIN-1
+----------------------------
+Iteration:
+  7
+
+Search component:
+  MAIN-1
+
+Candidate term or query modification:
+  Minor exact-phrase expansion: "food big data analytics"; "big data analytics in food";
+  "big data analytics for food"; "food systems informatics"; "food system informatics";
+  "food safety analytics"; "food quality analytics"; "agri-food big data"; "agrifood big
+  data"; "big data in agri-food"; "big data in agrifood"; "big data for agri-food"; "big
+  data for agrifood".
+
+Source/evidence in this conversation:
+  Proposed during this conversation after the 702-record version.
+
+Decision:
+  Included
+
+Rationale for the decision:
+  The expansion was intended to add exact expressions while preserving the successful
+  proximity logic.
+
+Retrieval count before:
+  702
+
+Retrieval count after:
+  702
+
+Change in retrieval count:
+  0
+
+Evidence of validation against retrieved documents:
+  User again reported 702 records. Assistant concluded that the added exact phrases did not
+  materially expand retrieval.
+
+Notes:
+  Query expansion stopped for MAIN-1.
+
+
+ROW 8 | Iteration 8 | MAIN-1
+----------------------------
+Iteration:
+  8
+
+Search component:
+  MAIN-1
+
+Candidate term or query modification:
+  Final stable primary search string named MAIN-1.
+
+Source/evidence in this conversation:
+  User stated that the last search string would be called CHATGPT; later instructed it
+  should be renamed MAIN-1.
+
+Decision:
+  Included
+
+Rationale for the decision:
+  The query had stabilized at 702 records after minor expansion.
+
+Retrieval count before:
+  702
+
+Retrieval count after:
+  702
+
+Change in retrieval count:
+  0
+
+Evidence of validation against retrieved documents:
+  Stability of retrieval count after expansion was the documented validation.
+
+Notes:
+  MAIN-1 is the primary search developed in this conversation.
+

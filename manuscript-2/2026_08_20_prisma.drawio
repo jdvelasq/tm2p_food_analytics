@@ -1,0 +1,55 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36">
+  <diagram name="Página-1" id="ot0PXyGs3hzYBor1LjvP">
+    <mxGraphModel dx="769" dy="751" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W_nr4ksiAtif4gGKhU2a-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;rotation=-90;" value="Identification" vertex="1">
+          <mxGeometry height="30" width="100" x="6" y="152" as="geometry" />
+        </mxCell>
+        <mxCell id="W_nr4ksiAtif4gGKhU2a-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;rotation=-90;" value="Screening" vertex="1">
+          <mxGeometry height="30" width="100" x="6" y="268.4" as="geometry" />
+        </mxCell>
+        <mxCell id="W_nr4ksiAtif4gGKhU2a-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;rotation=-90;" value="Elegibility" vertex="1">
+          <mxGeometry height="30" width="100" x="6" y="388.4" as="geometry" />
+        </mxCell>
+        <mxCell id="W_nr4ksiAtif4gGKhU2a-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;rotation=-90;" value="Included" vertex="1">
+          <mxGeometry height="30" width="100" x="6" y="508.4" as="geometry" />
+        </mxCell>
+        <mxCell id="W_nr4ksiAtif4gGKhU2a-13" edge="1" parent="1" source="W_nr4ksiAtif4gGKhU2a-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;endArrow=blockThin;endFill=1;strokeWidth=2;" target="W_nr4ksiAtif4gGKhU2a-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_nr4ksiAtif4gGKhU2a-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;strokeWidth=2;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Records identified through database searching&lt;br&gt;(n=2913)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="320" x="90" y="137" as="geometry" />
+        </mxCell>
+        <mxCell id="W_nr4ksiAtif4gGKhU2a-14" edge="1" parent="1" source="W_nr4ksiAtif4gGKhU2a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;endArrow=blockThin;endFill=1;strokeWidth=2;" target="W_nr4ksiAtif4gGKhU2a-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_nr4ksiAtif4gGKhU2a-16" edge="1" parent="1" source="W_nr4ksiAtif4gGKhU2a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;endArrow=blockThin;endFill=1;" target="W_nr4ksiAtif4gGKhU2a-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_nr4ksiAtif4gGKhU2a-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;strokeWidth=2;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Records Screened&lt;br&gt;(n=2913)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="320" x="90" y="253.4" as="geometry" />
+        </mxCell>
+        <mxCell id="W_nr4ksiAtif4gGKhU2a-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;strokeWidth=2;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Records Excluded (n=263)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Pre-2016=203, Errata=44, Retracted=14, Data papers=2&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="320" x="461" y="254" as="geometry" />
+        </mxCell>
+        <mxCell id="W_nr4ksiAtif4gGKhU2a-15" edge="1" parent="1" source="W_nr4ksiAtif4gGKhU2a-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2;endArrow=blockThin;endFill=1;" target="W_nr4ksiAtif4gGKhU2a-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_nr4ksiAtif4gGKhU2a-18" edge="1" parent="1" source="W_nr4ksiAtif4gGKhU2a-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=2;endArrow=blockThin;endFill=1;" target="W_nr4ksiAtif4gGKhU2a-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_nr4ksiAtif4gGKhU2a-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;strokeWidth=2;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Documents assessed for eligibility&lt;br&gt;(n=2650)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="320" x="90" y="373.4" as="geometry" />
+        </mxCell>
+        <mxCell id="W_nr4ksiAtif4gGKhU2a-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;strokeWidth=2;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Records Excluded (n=683)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;By applying inclusion and exclusion criteria&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="320" x="461" y="374" as="geometry" />
+        </mxCell>
+        <mxCell id="W_nr4ksiAtif4gGKhU2a-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;strokeWidth=2;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Documents included in the review&lt;br&gt;(n=1967)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="320" x="90" y="493.4" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

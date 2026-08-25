@@ -1,0 +1,411 @@
+FOOD ANALYTICS SCOPUS SEARCH LOG — COMPLEMENTARY-1 DEVELOPMENT
+==============================================================
+
+Total rows: 10
+
+ROW 1 | Iteration 1 | MAIN-1
+----------------------------
+Iteration:
+  1
+
+Search component:
+  MAIN-1
+
+Candidate term or query modification:
+  Primary search developed iteratively in this conversation and stabilized at 702 records.
+
+Source/evidence in this conversation:
+  Derived from MAIN-1 development documented in the conversation.
+
+Decision:
+  Included as input to complementary search analysis
+
+Rationale for the decision:
+  MAIN-1 represented the main corpus-building search string and was used as one of three
+  primary searches to identify potential missing areas.
+
+Retrieval count before:
+  Not documented
+
+Retrieval count after:
+  702
+
+Change in retrieval count:
+  Not documented
+
+Evidence of validation against retrieved documents:
+  MAIN-1 validation was documented through successive retrieval counts and inspection of
+  retrieved records during MAIN-1 development.
+
+Notes:
+  This row records MAIN-1 as a starting point for COMPLEMENTARY-1, not as a new query
+  iteration.
+
+
+ROW 2 | Iteration 2 | MAIN-2
+----------------------------
+Iteration:
+  2
+
+Search component:
+  MAIN-2
+
+Candidate term or query modification:
+  Primary search string provided by the user, containing exact expressions such as "food
+  analytics"; "food data analytics"; "food informatics"; "food data science"; "food
+  computing"; "internet of food"; "food intelligence"; foodinformatics; "agri-food
+  informatics"; "agrifood informatics"; plus TITLE and KEY proximity blocks involving
+  food/agrifood/diet/recipe and analytics/AI/data-mining terms.
+
+Source/evidence in this conversation:
+  Derived from an existing query provided by the user and later renamed MAIN-2.
+
+Decision:
+  Included as input to complementary search analysis
+
+Rationale for the decision:
+  The user explicitly provided this as one of the primary search strings to be considered
+  when identifying missing papers.
+
+Retrieval count before:
+  Not documented
+
+Retrieval count after:
+  Not documented
+
+Change in retrieval count:
+  Not documented
+
+Evidence of validation against retrieved documents:
+  Not documented
+
+Notes:
+  No retrieval count for MAIN-2 is documented in this conversation.
+
+
+ROW 3 | Iteration 3 | MAIN-3
+----------------------------
+Iteration:
+  3
+
+Search component:
+  MAIN-3
+
+Candidate term or query modification:
+  Primary search string provided by the user, containing exact expressions such as "food
+  analytics"; "food business analytics"; "food supply chain analytics"; "food systems
+  analytics"; "food retail analytics"; "smart food system"; "digital food system"; "food
+  industry 4.0"; "big data in food safety"; and "big data in food security".
+
+Source/evidence in this conversation:
+  Derived from an existing query provided by the user and later renamed MAIN-3.
+
+Decision:
+  Included as input to complementary search analysis
+
+Rationale for the decision:
+  The user explicitly provided this as one of the primary search strings to be considered
+  when identifying missing papers.
+
+Retrieval count before:
+  Not documented
+
+Retrieval count after:
+  Not documented
+
+Change in retrieval count:
+  Not documented
+
+Evidence of validation against retrieved documents:
+  Not documented
+
+Notes:
+  No retrieval count for MAIN-3 is documented in this conversation.
+
+
+ROW 4 | Iteration 4 | COMPLEMENTARY-1
+-------------------------------------
+Iteration:
+  4
+
+Search component:
+  COMPLEMENTARY-1
+
+Candidate term or query modification:
+  Comparative analysis of MAIN-1, MAIN-2, and MAIN-3 to identify missing areas. Candidate
+  missing areas included computational gastronomy, food recommender systems, recipe
+  recommendation, recipe mining, menu analytics, restaurant analytics, grocery analytics,
+  nutrition/dietary analytics, food knowledge graphs, food ontologies, semantic web of food,
+  smart/digital food supply chains, agri-food 4.0, food demand forecasting, and food waste
+  analytics.
+
+Source/evidence in this conversation:
+  Introduced as a complementary concept during this conversation after the user asked for
+  missing papers not captured by the three search strings.
+
+Decision:
+  Included for complementary search development
+
+Rationale for the decision:
+  The purpose was to improve recall by targeting relevant food analytics subareas not
+  necessarily captured by the three primary strings.
+
+Retrieval count before:
+  Not documented
+
+Retrieval count after:
+  Not documented
+
+Change in retrieval count:
+  Not documented
+
+Evidence of validation against retrieved documents:
+  Not documented
+
+Notes:
+  This was the conceptual basis for COMPLEMENTARY-1.
+
+
+ROW 5 | Iteration 5 | COMPLEMENTARY-1
+-------------------------------------
+Iteration:
+  5
+
+Search component:
+  COMPLEMENTARY-1
+
+Candidate term or query modification:
+  Controlled complementary query including computational gastronomy, food/recipe
+  recommender-system terms, recipe mining, menu/restaurant/grocery analytics,
+  nutrition/dietary/meal analytics, food demand/consumption forecasting and prediction, food
+  waste/loss prediction, food knowledge graphs, food ontologies, food semantic web,
+  smart/digital food supply chains, agri-food 4.0, data-driven food systems, and data-driven
+  nutrition.
+
+Source/evidence in this conversation:
+  Proposed during this conversation when the user asked which complementary search string to
+  try.
+
+Decision:
+  Modified
+
+Rationale for the decision:
+  It retrieved candidate missing records but was judged too broad because it captured
+  generic AI/ML prediction literature.
+
+Retrieval count before:
+  Not documented
+
+Retrieval count after:
+  721
+
+Change in retrieval count:
+  Not documented
+
+Evidence of validation against retrieved documents:
+  User reported 721 records. Assistant reported signals in the uploaded file: machine
+  learning 342; artificial intelligence 185; prediction 181; deep learning 143; data-driven
+  59; forecasting 48; supply chain 46; food waste 21; food supply chain 20; ontology 11;
+  recommendation/recommender 11; knowledge graph 4.
+
+Notes:
+  First executed COMPLEMENTARY-1 candidate.
+
+
+ROW 6 | Iteration 6 | COMPLEMENTARY-1
+-------------------------------------
+Iteration:
+  6
+
+Search component:
+  COMPLEMENTARY-1
+
+Candidate term or query modification:
+  Remove broader prediction/nutrition terms: "food waste prediction"; "food loss
+  prediction"; "food demand prediction"; "food consumption prediction"; and "data-driven
+  nutrition". Add/retain more targeted expressions such as food demand analytics, food
+  consumption analytics, food loss analytics, semantic web of food, data-driven food supply
+  chains, and data-driven agri-food systems.
+
+Source/evidence in this conversation:
+  Proposed during this conversation after the 721-record result.
+
+Decision:
+  Modified
+
+Rationale for the decision:
+  The assistant attempted to reduce generic prediction, machine-learning, nutrition, and
+  food-waste-management noise.
+
+Retrieval count before:
+  721
+
+Retrieval count after:
+  764
+
+Change in retrieval count:
+  +43
+
+Evidence of validation against retrieved documents:
+  User reported 764 records. Assistant reported that the query was dominated by
+  recommendation 489; recommender 319; nutrition 300; diet 289; recipe 279; machine learning
+  148; ontology 144; artificial intelligence 102; knowledge graph 65; supply chain 64.
+
+Notes:
+  The attempted refinement increased retrieval and was judged still too broad.
+
+
+ROW 7 | Iteration 7 | COMPLEMENTARY-1
+-------------------------------------
+Iteration:
+  7
+
+Search component:
+  COMPLEMENTARY-1
+
+Candidate term or query modification:
+  Restrict food/meal/recipe recommender-system terms to TITLE and KEY, while keeping other
+  complementary phrases in TITLE-ABS-KEY.
+
+Source/evidence in this conversation:
+  Proposed during this conversation after the 764-record result.
+
+Decision:
+  Included
+
+Rationale for the decision:
+  The assistant identified recommendation-system literature as the dominant source of
+  inflation and proposed title/keyword restriction to improve precision.
+
+Retrieval count before:
+  764
+
+Retrieval count after:
+  540
+
+Change in retrieval count:
+  -224
+
+Evidence of validation against retrieved documents:
+  User reported 540 records. Assistant reported signals: recommendation/recommender 279/191;
+  nutrition/diet/recipe 201/198/175; ontology 133; machine learning 96; artificial
+  intelligence 73; supply chain 63; knowledge graph 48; computational gastronomy 34; food
+  waste 27; digital/smart food supply chain 27.
+
+Notes:
+  The 540-record version was judged usable as a complementary candidate pool.
+
+
+ROW 8 | Iteration 8 | COMPLEMENTARY-1
+-------------------------------------
+Iteration:
+  8
+
+Search component:
+  COMPLEMENTARY-1
+
+Candidate term or query modification:
+  Stop refinement of the complementary search.
+
+Source/evidence in this conversation:
+  Assistant recommended stopping after the 540-record result.
+
+Decision:
+  Undetermined / recommended
+
+Rationale for the decision:
+  The assistant stated that further reduction might remove the missing papers the
+  complementary query was designed to find.
+
+Retrieval count before:
+  540
+
+Retrieval count after:
+  540
+
+Change in retrieval count:
+  0
+
+Evidence of validation against retrieved documents:
+  The 540-record version contained several targeted missing areas, including recommendation
+  systems, recipe recommendation, computational gastronomy, ontologies, knowledge graphs,
+  semantic web of food, digital/smart food supply chains, agri-food 4.0, food demand
+  forecasting, and food waste analytics.
+
+Notes:
+  Explicit user confirmation of final adoption is not documented in the conversation.
+
+
+ROW 9 | Iteration 9 | COMPLEMENTARY-2
+-------------------------------------
+Iteration:
+  9
+
+Search component:
+  COMPLEMENTARY-2
+
+Candidate term or query modification:
+  Complementary search obtained from MAIN-2.
+
+Source/evidence in this conversation:
+  User instructed that this label should exist.
+
+Decision:
+  Not documented
+
+Rationale for the decision:
+  Not documented
+
+Retrieval count before:
+  Not documented
+
+Retrieval count after:
+  Not documented
+
+Change in retrieval count:
+  Not documented
+
+Evidence of validation against retrieved documents:
+  Not documented
+
+Notes:
+  No query string, retrieval count, terms, or validation evidence for COMPLEMENTARY-2 is
+  documented in this conversation.
+
+
+ROW 10 | Iteration 10 | COMPLEMENTARY-3
+---------------------------------------
+Iteration:
+  10
+
+Search component:
+  COMPLEMENTARY-3
+
+Candidate term or query modification:
+  Complementary search obtained from MAIN-3.
+
+Source/evidence in this conversation:
+  User instructed that this label should exist.
+
+Decision:
+  Not documented
+
+Rationale for the decision:
+  Not documented
+
+Retrieval count before:
+  Not documented
+
+Retrieval count after:
+  Not documented
+
+Change in retrieval count:
+  Not documented
+
+Evidence of validation against retrieved documents:
+  Not documented
+
+Notes:
+  No query string, retrieval count, terms, or validation evidence for COMPLEMENTARY-3 is
+  documented in this conversation.
+

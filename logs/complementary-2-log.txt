@@ -1,0 +1,142 @@
+FOOD ANALYTICS SCOPUS SEARCH LOG — COMPLEMENTARY-2
+==================================================
+
+Total rows: 3
+
+ROW 1 | Iteration 1 | COMPLEMENTARY-2
+-------------------------------------
+Iteration:
+  1
+
+Search component:
+  COMPLEMENTARY-2
+
+Candidate term or query modification:
+  Registration and comparative gap analysis of three primary search strings: MAIN-1, MAIN-2,
+  and MAIN-3 to determine missing sub-domains in food analytics.
+
+Source/evidence in this conversation:
+  User registered MAIN-3, confirmed MAIN-2, and registered MAIN-1, tasking the workflow:
+  "what domain areas must be captured by the search strings? your task is detemrine what is
+  missing, and design a complementary search string to capture what is missing. remember that
+  * can not be inside of \"...\"".
+
+Decision:
+  Included
+
+Rationale for the decision:
+  Comparative gap analysis revealed that all three primary strings omitted multi-omics data
+  matrices (foodomics), flavor/sensory data analytics, vision-based food localization, and
+  multivariate chemometrics.
+
+Retrieval count before:
+  Not documented
+
+Retrieval count after:
+  Not documented
+
+Change in retrieval count:
+  Not documented
+
+Evidence of validation against retrieved documents:
+  Dissected thematic boundaries across the three registered strings, identifying unmapped
+  sub-fields across high-dimensional food data matrices.
+
+Notes:
+  Established the baseline gap analysis for designing COMPLEMENTARY-2.
+
+
+ROW 2 | Iteration 2 | COMPLEMENTARY-2
+-------------------------------------
+Iteration:
+  2
+
+Search component:
+  COMPLEMENTARY-2
+
+Candidate term or query modification:
+  Broad complementary formulation: TITLE-ABS-KEY ( foodomic* OR nutrigenomic* OR "sensomics"
+  OR "flavor analytics" OR "aroma data" OR "agroinformatics" OR "agro-informatics" OR
+  "recipe informatics" OR "food tree*" ) OR TITLE ( (food OR diet OR recipe OR calorie*) W/3
+  ("image recognition" OR "volume estimation" OR "segmentation" OR "object detection" OR
+  "knowledge graph*" OR "ontology" OR "text mining" OR "chemometric*") ) OR KEY ( (food OR
+  diet OR recipe OR calorie*) W/2 ("image recognition" OR "volume estimation" OR
+  "segmentation" OR "object detection" OR "knowledge graph*" OR "ontology" OR "text mining"
+  OR "chemometric*") ).
+
+Source/evidence in this conversation:
+  Proposed during this conversation to capture missing modalities (omics, flavor, recipe
+  text mining, vision segmentation, ontologies).
+
+Decision:
+  Modified
+
+Rationale for the decision:
+  User executed the query and retrieved 5,735 records, then intervened with: "remember that
+  target area is food analytics", indicating that broad omics and vision terms had expanded
+  the scope too far into general biology and computer science.
+
+Retrieval count before:
+  Not documented
+
+Retrieval count after:
+  5,735
+
+Change in retrieval count:
+  Not documented
+
+Evidence of validation against retrieved documents:
+  User reported 5,735 documents retrieved in Scopus.
+
+Notes:
+  Prompted re-focusing strictly on property-level food analytics and multivariate
+  chemometrics.
+
+
+ROW 3 | Iteration 3 | COMPLEMENTARY-2
+-------------------------------------
+Iteration:
+  3
+
+Search component:
+  COMPLEMENTARY-2
+
+Candidate term or query modification:
+  Refined property-level complementary formulation: TITLE-ABS-KEY ( "sensory analytics" OR
+  "flavor analytics" OR "taste analytics" OR "compositional analytics" OR "nutritional
+  analytics" OR "nutrition analytics" OR "authenticity analytics" OR "adulteration analytics"
+  OR "shelf-life analytics" OR "freshness analytics" OR "predictive food analytics" ) OR
+  TITLE ( (food OR agrifood OR "agri-food") W/2 (chemometric* OR "predictive modeling" OR
+  "predictive modelling" OR "multivariate analysis") ) OR KEY ( (food OR agrifood OR
+  "agri-food") W/2 (chemometric* OR "predictive modeling" OR "predictive modelling" OR
+  "multivariate analysis") ).
+
+Source/evidence in this conversation:
+  Proposed during this conversation strictly focusing on granular food property analytics
+  and multivariate chemometrics.
+
+Decision:
+  Included
+
+Rationale for the decision:
+  Captured foundational multivariate statistical analysis and property-level analytics
+  (sensory, flavor, freshness, adulteration, shelf-life) missing from MAIN-1, MAIN-2, and
+  MAIN-3 without dragging in broad omics/vision noise.
+
+Retrieval count before:
+  5,735
+
+Retrieval count after:
+  130
+
+Change in retrieval count:
+  -5,605
+
+Evidence of validation against retrieved documents:
+  User reported 130 records and provided scopus_9.csv. Keyword analysis verified high
+  concentration in chemometrics (29), food authentication (8), classification (8), food
+  authenticity (6), and multivariate analysis (10).
+
+Notes:
+  COMPLEMENTARY-2 is the finalized complementary search strategy developed in this
+  conversation.

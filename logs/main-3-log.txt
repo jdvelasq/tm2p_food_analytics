@@ -1,0 +1,381 @@
+FOOD ANALYTICS SCOPUS SEARCH LOG — MAIN-3
+=========================================
+
+Total rows: 8
+
+ROW 1 | Iteration 1 | MAIN-3
+----------------------------
+Iteration:
+  1
+
+Search component:
+  MAIN-3
+
+Candidate term or query modification:
+  Assistant draft v1: three-block OR string. Block A (direct phrase synonyms): "food
+  analytics"; "food data analytics"; "food informatics"; "food data science"; "food
+  intelligence"; "culinary analytics". Block B (analytical techniques applied to food):
+  food quality/safety/authentication/adulteration/traceability/composition/contaminant*
+  AND chemometrics/spectroscopy/chromatography/spectromet*/biosensor*/sensor array/
+  electronic nose/electronic tongue/hyperspectral imaging/near infrared/NIR/NMR/mass
+  spectrometry. Block C (data-driven approaches to food): food/beverage*/agri-food/
+  food product* AND machine learning/deep learning/artificial intelligence/big data/
+  data mining/predictive model*/multivariate analysis/pattern recognition/PCA/
+  chemometric*.
+
+Source/evidence in this conversation:
+  Proposed by assistant in response to user request: "generate a first extract version for
+  searching in Scopus. this first version search for 'food analytics' and synonyms."
+
+Decision:
+  Modified
+
+Rationale for the decision:
+  User provided an alternative string covering only phrase-level synonyms; assistant blocks B
+  and C were not adopted. User's version was used as the basis for subsequent iterations.
+
+Retrieval count before:
+  Not documented
+
+Retrieval count after:
+  Not documented (v1 never executed in Scopus)
+
+Change in retrieval count:
+  Not documented
+
+Evidence of validation against retrieved documents:
+  None documented. String was replaced before any Scopus execution.
+
+Notes:
+  Also contained wildcard errors (e.g., "food contaminant*", "beverage*", "predictive
+  model*", "chemometric*") with wildcards outside quotes, which is valid in Scopus. However,
+  Blocks B and C were not adopted by the user.
+
+
+ROW 2 | Iteration 2 | MAIN-3
+----------------------------
+Iteration:
+  2
+
+Search component:
+  MAIN-3
+
+Candidate term or query modification:
+  User-provided string (13 terms, TITLE-ABS-KEY): "food analytics"; "food data analytics";
+  "food big data"; "big data in food"; "food informatics"; "food data science"; "food
+  business analytics"; "food supply chain analytics"; "food systems analytics"; "agri-food
+  analytics"; "agrifood analytics"; "agri-food data analytics"; "agrifood data analytics".
+
+Source/evidence in this conversation:
+  Introduced explicitly by user for comparison and improvement. User stated: "compare and
+  improve again" presenting this string.
+
+Decision:
+  Modified
+
+Rationale for the decision:
+  User confirmed Cochrane methodology (maximum recall) and PRISMA screening. Assistant
+  identified gaps and proposed additions including agro-food variants, food intelligence,
+  food consumption analytics, food retail analytics, smart food systems, digital food
+  systems, food industry 4.0, precision nutrition, and nutrition informatics. User confirmed:
+  "the process will use PRISMA and apply inclusion and exclusion criteria." Stopping
+  criterion revised to zero new terms (false-positive rate threshold removed).
+
+Retrieval count before:
+  Not documented
+
+Retrieval count after:
+  Not documented (not executed as standalone)
+
+Change in retrieval count:
+  Not documented
+
+Evidence of validation against retrieved documents:
+  None documented.
+
+Notes:
+  The assistant also identified and fixed a wildcard error in the user string: "smart food
+  system*" (wildcard inside quotes treated as literal character in Scopus) was split into
+  "smart food system" OR "smart food systems". User confirmed: "your operator ..*  is wrong
+  in scopus."
+
+
+ROW 3 | Iteration 3 | MAIN-3
+----------------------------
+Iteration:
+  3
+
+Search component:
+  MAIN-3
+
+Candidate term or query modification:
+  v2 (first executed version): all 13 user terms retained plus added "food data science";
+  "food intelligence"; "food consumption analytics"; "food retail analytics"; "agro-food
+  analytics"; "agrofood analytics"; "agri-food data science"; "agrifood data science";
+  "agro-food data analytics"; "agrofood data analytics"; "dietary analytics"; "precision
+  nutrition"; "nutrition analytics"; "nutrition informatics"; "smart food system"; "smart
+  food systems"; "digital food system"; "digital food systems"; "food industry 4.0"; and
+  agro-food data science/analytics pairs. All wildcards inside quotes removed; singular and
+  plural forms enumerated explicitly.
+
+Source/evidence in this conversation:
+  Proposed by assistant after gap analysis of user string; wildcard fix applied after user
+  identified Scopus wildcard-in-quotes error. Assistant stated: "The only structural change
+  from the previous version is the wildcard fix."
+
+Decision:
+  Included (executed)
+
+Rationale for the decision:
+  Cochrane maximum-recall principle confirmed by user. All terms retained per Cochrane rules
+  regardless of expected frequency.
+
+Retrieval count before:
+  Not documented
+
+Retrieval count after:
+  2,067
+
+Change in retrieval count:
+  Not documented (first execution)
+
+Evidence of validation against retrieved documents:
+  User uploaded scopus.csv (2,067 records). Assistant identified "precision nutrition" = 1,833
+  hits (89% of corpus); 17 terms returned zero hits including all agri-food block variants;
+  genuine core estimated at ~200 records. Assistant stated: "The 2,067 records are almost
+  entirely driven by 'precision nutrition' (1,833 hits)."
+
+Notes:
+  First executed version of MAIN-3.
+
+
+ROW 4 | Iteration 4 | MAIN-3
+----------------------------
+Iteration:
+  4
+
+Search component:
+  MAIN-3
+
+Candidate term or query modification:
+  v3: dropped "precision nutrition" (1,833 hits; nutrigenomics/microbiome domain); "nutrition
+  informatics" (48 hits; absorbed into nutrition/genomics domain); "dietary analytics" (2
+  hits; subsumed by food consumption analytics); "nutrition analytics" (5 hits; same domain
+  as precision nutrition). Added: "food computing"; "food recognition"; "food image
+  analysis"; "food image analytics"; "food classification"; "food trend analytics"; "food
+  trend analysis"; "smart food" (broadened from smart food system/systems); "digital food
+  analytics". New terms derived from author keywords and title bigrams of genuine food
+  analytics records in the v2 corpus.
+
+Source/evidence in this conversation:
+  Proposed by assistant based on corpus analysis of v2 CSV. Assistant stated: "new terms
+  evidence-based from corpus keyword analysis."
+
+Decision:
+  Included (executed)
+
+Rationale for the decision:
+  Precision nutrition belongs to distinct domain (nutrigenomics/microbiome). New terms
+  identified from author keywords and title bigrams of genuine food analytics records.
+
+Retrieval count before:
+  2,067
+
+Retrieval count after:
+  2,945
+
+Change in retrieval count:
+  +878
+
+Evidence of validation against retrieved documents:
+  User uploaded scopus.csv (2,945 records). Assistant identified "food classification" (921
+  hits, 100% noise — NOVA/image dish categorisation); "food recognition" (895 hits, 93%
+  noise — computer vision calorie apps); "smart food" (861 hits, 50% noise — smart
+  packaging/colorimetric films). Genuine core estimated at 352 records.
+
+Notes:
+  Jump from 2,067 to 2,945 driven by three noisy new terms.
+
+
+ROW 5 | Iteration 5 | MAIN-3
+----------------------------
+Iteration:
+  5
+
+Search component:
+  MAIN-3
+
+Candidate term or query modification:
+  v4: dropped "food classification" (921 hits; 100% noise — NOVA/image dish categorisation);
+  "food recognition" (895 hits; 93% noise — computer vision/calorie apps); "smart food" (861
+  hits; 50% noise — smart packaging); "food image analytics" (0 hits); "food trend
+  analytics" (0 hits); "digital food analytics" (0 hits). No new terms added.
+
+Source/evidence in this conversation:
+  Proposed by assistant based on noise audit of v3 corpus. Assistant stated: "These three
+  terms share a structural problem: they are genuinely meaningful phrases in food science but
+  in a different sub-discipline."
+
+Decision:
+  Included (executed)
+
+Rationale for the decision:
+  Dropped terms confirmed as computer vision/dietary assessment sub-discipline (>50% noise);
+  no new candidate terms identified in this round.
+
+Retrieval count before:
+  2,945
+
+Retrieval count after:
+  446
+
+Change in retrieval count:
+  -2,499
+
+Evidence of validation against retrieved documents:
+  User uploaded scopus.csv (446 records). Zero new candidate terms from corpus mining.
+  Assistant stated: "The stopping criterion is met for the first time." Stopping criterion
+  partially satisfied (first of two required consecutive rounds).
+
+Notes:
+  First zero-new-terms round. Stopping criterion requires two consecutive rounds.
+
+
+ROW 6 | Iteration 6 | MAIN-3
+----------------------------
+Iteration:
+  6
+
+Search component:
+  MAIN-3
+
+Candidate term or query modification:
+  v5: dropped "food computing" (143 hits; computer vision domain) and "food image analysis"
+  (82 hits; image-based dietary assessment/calorie estimation). No new terms added. String
+  stabilised at 30 terms.
+
+Source/evidence in this conversation:
+  Proposed by assistant based on noise audit of v4 corpus. This was the second consecutive
+  round with zero new domain-relevant terms.
+
+Decision:
+  Included (executed)
+
+Rationale for the decision:
+  Stopping criterion met: two consecutive rounds with zero new domain-relevant terms.
+  Dropped terms confirmed as computer vision sub-discipline (image-based dietary tracking,
+  calorie estimation, dish recognition from photos).
+
+Retrieval count before:
+  446
+
+Retrieval count after:
+  223
+
+Change in retrieval count:
+  -223
+
+Evidence of validation against retrieved documents:
+  User uploaded scopus.csv (223 records). Zero new candidate terms from corpus mining.
+  Assistant declared string final. User then challenged: "I think you are very restrictive,
+  and important records are missing."
+
+Notes:
+  First stop point declared by assistant. User challenge caused iteration to reopen.
+
+
+ROW 7 | Iteration 7 | MAIN-3
+----------------------------
+Iteration:
+  7
+
+Search component:
+  MAIN-3
+
+Candidate term or query modification:
+  v6: user challenged v5 as too restrictive. Added: "big data in food safety" (11 corpus
+  hits); "big data in food quality" (1 hit); "big data in food security" (1 hit); "digital
+  food" (16 hits); "foodomics" (2 hits); "food adulteration detection" (1 hit); "agri-food
+  system"; "agrifood system"; "smart food factory" (3 hits). Iteration reopened.
+
+Source/evidence in this conversation:
+  User explicitly challenged stopping decision stating: "I think you are very restrictive,
+  and important records are missing." Assistant identified gap in food safety × big data
+  literature from corpus keyword and bigram analysis of v5 corpus.
+
+Decision:
+  Included (executed)
+
+Rationale for the decision:
+  User judgment that important records were missing. Structural gap identified in practitioner
+  food analytics literature (food safety × big data cluster). Cochrane principle: missing a
+  relevant record is the only unacceptable outcome.
+
+Retrieval count before:
+  223
+
+Retrieval count after:
+  4,684
+
+Change in retrieval count:
+  +4,461
+
+Evidence of validation against retrieved documents:
+  User uploaded scopus.csv (4,684 records). "agri-food system" (2,455 hits), "agrifood
+  system" (865 hits), "digital food" (537 hits), "foodomics" (633 hits) confirmed as noise
+  by title sampling. "food adulteration detection" (63 hits) confirmed 100% spectroscopy.
+  Genuine additions identified: "big data in food safety" and "smart food factory".
+
+Notes:
+  Jump to 4,684 almost entirely driven by four noisy terms. Clean count estimated at 278
+  records after removing noisy terms.
+
+
+ROW 8 | Iteration 8 | MAIN-3 (FINAL)
+--------------------------------------
+Iteration:
+  8
+
+Search component:
+  MAIN-3
+
+Candidate term or query modification:
+  v7 (final): dropped "agri-food system" (2,455 hits — generic agri-food literature, not
+  analytics); "agrifood system" (865 hits — same problem); "digital food" (537 hits —
+  digital advertising/delivery apps); "foodomics" (633 hits — omics/metabolomics, separate
+  domain); "food adulteration detection" (63 hits — 100% spectroscopy/biosensor papers);
+  "big data in food quality" (absorbed). Retained: "big data in food safety"; "big data in
+  food security"; "smart food factory". Final string: 32 terms.
+
+Source/evidence in this conversation:
+  Proposed by assistant based on noise audit of v6 corpus. Zero new candidate terms in both
+  v6 and v7 analysis rounds. Assistant stated: "The stopping criterion is now formally met
+  across two consecutive rounds."
+
+Decision:
+  Included (executed) — designated FINAL
+
+Rationale for the decision:
+  All dropped terms confirmed noise or wrong domain. Two consecutive zero-new-term rounds
+  satisfy stopping criterion. Assistant stated: "The pattern is definitive: every candidate
+  term that produces more than ~50 new records belongs to a neighbouring sub-discipline."
+
+Retrieval count before:
+  4,684
+
+Retrieval count after:
+  228
+
+Change in retrieval count:
+  -4,456
+
+Evidence of validation against retrieved documents:
+  User uploaded scopus.csv (228 records). Zero new candidates from corpus mining. Stopping
+  criterion confirmed for third consecutive round. String designated MAIN-3 (previously
+  referred to as CLAUDE in the conversation).
+
+Notes:
+  String named CLAUDE during the conversation; renamed MAIN-3 per user nomenclature
+  instruction. Final string contains 32 terms across four groups: (A) food analytics core,
+  (B) agri-food variants, (C) digital and smart food systems, (D) big data applied to food
+  safety and security domains.
